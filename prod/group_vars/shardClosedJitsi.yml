@@ -1,0 +1,17 @@
+shardName: closed.jitsi
+shardNameShort: closed
+enableFeaturesBasedOnToken: True
+disableInviteFunctions: True
+instances:
+  - konferenzdienst.bruchsal.digital
+  - konferenzdienst.readi.de
+#  - geplantekonferenz.buehl.digital
+#  - geplante-videokonferenz.rastatt.de
+
+instancevars:
+  konferenzdienst.bruchsal.digital:
+    userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
+    downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
+  konferenzdienst.readi.de:
+    userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
+    downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'

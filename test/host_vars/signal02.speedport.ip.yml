@@ -1,0 +1,5 @@
+fqdn: signal02.speedport.ip
+private_vlan_ip: 10.0.0.112/24
+hostname: signal02
+cluster_partner: signal01.speedport.ip
+internal_interface: 10.0.0.112

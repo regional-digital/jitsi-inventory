@@ -1,0 +1,4 @@
+fqdn: securesignal01.speedport.ip
+private_vlan_ip: 10.0.0.121/24
+hostname: securesignal01
+internal_interface: 10.0.0.121

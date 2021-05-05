@@ -1,0 +1,8 @@
+# Ansible secret vault
+vault
+
+# SSH keys 
+*.key.*
+
+# SSL keys
+*.pem

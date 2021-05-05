@@ -1,0 +1,4 @@
+ansible_host: jitsiadmin.readi.de
+private_vlan_ip: 10.0.1.3/32
+internal_interface: 10.0.1.3
+fqdn: jitsiadmin.readi.de

@@ -1,0 +1,5 @@
+ansible_host: stats.buehl.digital
+private_vlan_ip: 10.0.1.2/32
+internal_interface: 10.0.1.2
+fqdn: stats.buehl.digital
+hostname: stats

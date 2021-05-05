@@ -1,0 +1,5 @@
+ansible_host: 188.34.191.73
+private_vlan_ip: 10.0.1.4/32
+internal_interface: 10.0.1.4
+fqdn: sso.readi.de
+hostname: sso
