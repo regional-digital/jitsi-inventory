@@ -101,8 +101,8 @@ instancevars:
         },
 
   rv-verbindet.ravensburg.de:
-    userDocumentationURL: 'https://www.ravensburg.de'
-    downloadAppsUrl: 'https://www.ravensburg.de'
+    userDocumentationURL: 'https://www.ravensburg.de/rv/gesellschaft-soziales/rv-verbindet.php'
+    downloadAppsUrl: 'https://www.ravensburg.de/rv/gesellschaft-soziales/rv-verbindet.php'
 
   treff.neuweiler.de:
     userDocumentationURL: 'https://www.neuweiler.de/de/Aktuelles/Treffpunkt-Neuweiler'
