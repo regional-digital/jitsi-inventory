@@ -38,6 +38,8 @@ instancevars:
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07304/9589531"]},"numbersEnabled":true}'
 
   konferenz.bietigheim.de:
+    userDocumentationURL: 'https://www.bietigheim.de/web/gemeinde_bietje_schwaezzt_im_netz.html'
+    downloadAppsUrl: 'https://www.bietigheim.de/web/gemeinde_bietje_schwaezzt_im_netz.html'
 
   konferenz.bretten.de:
     userDocumentationURL: 'https://www.bretten.de/peter-ruft-paul'

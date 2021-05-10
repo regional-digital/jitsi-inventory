@@ -5,8 +5,11 @@ disableInviteFunctions: True
 instances:
   - konferenzdienst.bruchsal.digital
   - konferenzdienst.readi.de
-#  - geplantekonferenz.buehl.digital
-#  - geplante-videokonferenz.rastatt.de
+  - geplantekonferenz.buehl.digital
+  - geplante-videokonferenz.rastatt.de
+  - admin.konferenz.ettlingen.digital
+  - konferenz-admin.stutensee.de
+  - jitsiadmin.bretten.de
 
 instancevars:
   konferenzdienst.bruchsal.digital:
@@ -15,3 +18,15 @@ instancevars:
   konferenzdienst.readi.de:
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
+  geplantekonferenz.buehl.digital:
+    userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
+    downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
+  geplante-videokonferenz.rastatt.de:
+    userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
+    downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
+  admin.konferenz.ettlingen.digital:
+    userDocumentationURL: 'https://www.ettlingen.de/2827809/'
+    downloadAppsUrl: 'https://www.ettlingen.de/2827809/'
+  jitsiadmin.bretten.de:
+    userDocumentationURL: 'https://www.bretten.de/peter-ruft-paul'
+    downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
