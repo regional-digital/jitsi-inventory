@@ -57,6 +57,12 @@ instancevars:
       - konferenz.buehl.digital
       - frontend.pp.buehl.digital
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
+    toolbarButtons: |
+       'microphone', 'camera', 'closedcaptions', 'desktop', 'fullscreen',
+       'fodeviceselection', 'hangup', 'profile', 'chat',
+       'etherpad', 'sharedvideo', 'shareaudio', 'settings', 'raisehand',
+       'videoquality', 'filmstrip', 'invite', 'feedback', 'stats', 'shortcuts',
+       'tileview', 'select-background', 'download', 'help', 'mute-everyone', 'mute-video-everyone', 'security'
 
   konferenz.ettlingen.digital:
     userDocumentationURL: 'https://www.ettlingen.de/2827809/'
@@ -66,6 +72,12 @@ instancevars:
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
+    toolbarButtons: |
+       'microphone', 'camera', 'closedcaptions', 'desktop', 'fullscreen',
+       'fodeviceselection', 'hangup', 'profile', 'chat',
+       'etherpad', 'sharedvideo', 'shareaudio', 'settings', 'raisehand',
+       'videoquality', 'filmstrip', 'invite', 'feedback', 'stats', 'shortcuts',
+       'tileview', 'select-background', 'download', 'help', 'mute-everyone', 'mute-video-everyone', 'security'
 
   konferenz.schkeuditz.de:
     userDocumentationURL: 'https://www.schkeuditz.de/portal/seiten/Seite-900000181-27780.html'
