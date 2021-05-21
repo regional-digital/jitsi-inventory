@@ -29,7 +29,7 @@ instancevars:
 
   connect.offenburg.digital:
     userDocumentationURL: 'https://www.offenburg.de/connect'
-    downloadAppsUrl: 'https://www.offenburg.de/html/misc/datenschutz.html'
+    downloadAppsUrl: 'https://www.offenburg.de/connect'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07811/2555621"]},"numbersEnabled":true}'
 
   konferenz.blaustein.works:
@@ -88,7 +88,9 @@ instancevars:
     downloadAppsUrl: 'https://stutensee.de/bildung-freizeit/milchldle-40'
 
   konferenztest.bruchsal.digital:
-    #dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
+    AppName: Brusl babbld!
+    usedWebVersion: jitsi-meet-web-1.0.4900-1
+    dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
     additionalConfig: |

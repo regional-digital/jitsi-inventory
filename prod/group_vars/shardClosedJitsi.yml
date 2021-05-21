@@ -10,6 +10,7 @@ instances:
   - admin.konferenz.ettlingen.digital
   - konferenz-admin.stutensee.de
   - jitsiadmin.bretten.de
+  - geplant.connect.offenburg.digital
 
 instancevars:
   konferenzdienst.bruchsal.digital:
@@ -30,3 +31,6 @@ instancevars:
   jitsiadmin.bretten.de:
     userDocumentationURL: 'https://www.bretten.de/peter-ruft-paul'
     downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
+  geplant.connect.offenburg.digital:
+    userDocumentationURL: 'https://www.offenburg.de/connect'
+    downloadAppsUrl: 'https://www.offenburg.de/connect'
