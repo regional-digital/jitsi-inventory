@@ -26,13 +26,6 @@ all:
             jvb6.pp.buehl.digital:
             jvb7.pp.buehl.digital:
             jvb8.pp.buehl.digital:
-            jvb9.pp.buehl.digital:
-            jvb10.pp.buehl.digital:
-            jvb11.pp.buehl.digital:
-            jvb12.pp.buehl.digital:
-            jvb13.pp.buehl.digital:
-            jvb14.pp.buehl.digital:
-            jvb15.pp.buehl.digital:
         jigasi:
           hosts:
             jvb3.pp.buehl.digital:
@@ -46,13 +39,6 @@ all:
         jvb6.pp.buehl.digital:
         jvb7.pp.buehl.digital:
         jvb8.pp.buehl.digital:
-        jvb9.pp.buehl.digital:
-        jvb10.pp.buehl.digital:
-        jvb11.pp.buehl.digital:
-        jvb12.pp.buehl.digital:
-        jvb13.pp.buehl.digital:
-        jvb14.pp.buehl.digital:
-        jvb15.pp.buehl.digital:
         signal01.pp.buehl.digital:
         signal02.pp.buehl.digital:
         securesignal01.pp.buehl.digital:
@@ -68,13 +54,6 @@ all:
         jvb6.pp.buehl.digital:
         jvb7.pp.buehl.digital:
         jvb8.pp.buehl.digital:
-        jvb9.pp.buehl.digital:
-        jvb10.pp.buehl.digital:
-        jvb11.pp.buehl.digital:
-        jvb12.pp.buehl.digital:
-        jvb13.pp.buehl.digital:
-        jvb14.pp.buehl.digital:
-        jvb15.pp.buehl.digital:
         signal01.pp.buehl.digital:
         signal02.pp.buehl.digital:
         securesignal01.pp.buehl.digital:
@@ -95,10 +74,3 @@ all:
         jvb6.pp.buehl.digital:
         jvb7.pp.buehl.digital:
         jvb8.pp.buehl.digital:
-        jvb9.pp.buehl.digital:
-        jvb10.pp.buehl.digital:
-        jvb11.pp.buehl.digital:
-        jvb12.pp.buehl.digital:
-        jvb13.pp.buehl.digital:
-        jvb14.pp.buehl.digital:
-        jvb15.pp.buehl.digital:
