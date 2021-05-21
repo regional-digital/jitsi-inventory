@@ -1,0 +1,30 @@
+jigasi_sipuser: "{{ vault_jigasi_sipuser }}"
+jigasi_sippwd: "{{ vault_jigasi_sippwd }}"
+jigasi_hostname: "{{ vault_jigasi_hostname }}"
+jigasi_host: "{{ vault_jigasi_host }}"
+jigasi_server_address: 136.243.75.172
+jigasi_account_uid: "{{ vault_jigasi_account_uid }}"
+jigasi_user_id: "{{ vault_jigasi_user_id }}"
+jigasi_healthcheck_number: "{{ vault_jigasi_healthcheck_number }}"
+sip_provider_domain: "{{ vault_sip_provider_domain }}"
+sip_account_buehl_secret: "{{ vault_sip_account_buehl_secret }}"
+sip_account_blaustein_secret: "{{ vault_sip_account_blaustein_secret }}"
+sip_account_rastatt_secret: "{{ vault_sip_account_rastatt_secret }}"
+sip_account_offenburg_secret: "{{ vault_sip_account_offenburg_secret }}"
+sip_accounts:
+  buehl:
+    name: buehl
+    number: 004972237671036
+    secret: "{{ sip_account_buehl_secret }}"
+  blaustein:
+    name: blaustein
+    number: 004973049589531
+    secret: "{{ sip_account_blaustein_secret }}"
+  rastatt:
+    name: rastatt
+    number: 004972229316413
+    secret: "{{ sip_account_rastatt_secret }}"
+  offenburg:
+    name: offenburg
+    number: 004978112555621
+    secret: "{{ sip_account_offenburg_secret }}"

@@ -5,3 +5,4 @@ ansible_host: "{{ hostname }}.pp.buehl.digital"
 private_vlan_ip: "10.0.0.10{{ bridgenumber }}/24"
 internal_interface: "10.0.0.10{{ bridgenumber }}"
 fqdn: "{{ hostname }}.pp.buehl.digital"
+external_ip: 136.243.75.172
