@@ -89,7 +89,7 @@ instancevars:
 
   konferenztest.bruchsal.digital:
     AppName: Brusl babbld!
-    usedWebVersion: 1.0.4900-1
+    usedWebVersion: 1.0.4985-1
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
