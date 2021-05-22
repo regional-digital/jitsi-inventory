@@ -89,7 +89,7 @@ instancevars:
 
   konferenztest.bruchsal.digital:
     AppName: Brusl babbld!
-    usedWebVersion: jitsi-meet-web-1.0.4900-1
+    usedWebVersion: 1.0.4900-1
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
@@ -115,6 +115,12 @@ instancevars:
             high: 1500000
           },
         },
+    toolbarButtons: |
+       'microphone', 'camera', 'closedcaptions', 'desktop', 'fullscreen',
+       'fodeviceselection', 'hangup', 'profile', 'chat',
+       'etherpad', 'sharedvideo', 'shareaudio', 'settings', 'raisehand',
+       'videoquality', 'filmstrip', 'invite', 'feedback', 'stats', 'shortcuts',
+       'tileview', 'select-background', 'download', 'help', 'mute-everyone', 'mute-video-everyone', 'security'
 
   rv-verbindet.ravensburg.de:
     userDocumentationURL: 'https://www.ravensburg.de/rv/gesellschaft-soziales/rv-verbindet.php'
