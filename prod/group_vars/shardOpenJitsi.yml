@@ -20,6 +20,7 @@ instances:
 
 instancevars:
   brusl-babbld.bruchsal.de:
+    usedWebVersion: 1.0.4985-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
     certbotDomainString: brusl-babbld.bruchsal.de -d bruslbabbld.bruchsal.de
@@ -89,7 +90,6 @@ instancevars:
     downloadAppsUrl: 'https://stutensee.de/bildung-freizeit/milchldle-40'
 
   konferenztest.bruchsal.digital:
-    AppName: Brusl babbld!
     usedWebVersion: 1.0.4985-1
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'

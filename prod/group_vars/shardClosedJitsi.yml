@@ -14,6 +14,7 @@ instances:
 
 instancevars:
   konferenzdienst.bruchsal.digital:
+    usedWebVersion: 1.0.4985-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
   konferenzdienst.readi.de:
