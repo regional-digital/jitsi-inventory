@@ -20,7 +20,7 @@ instances:
 
 instancevars:
   brusl-babbld.bruchsal.de:
-    usedWebVersion: 1.0.4985-1
+    usedWebVersion: 1.0.5056-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
     certbotDomainString: brusl-babbld.bruchsal.de -d bruslbabbld.bruchsal.de
@@ -47,7 +47,7 @@ instancevars:
     downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
 
   konferenz.bruchsal.digital:
-    usedWebVersion: 1.0.4985-1
+    usedWebVersion: 1.0.5056-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
 
