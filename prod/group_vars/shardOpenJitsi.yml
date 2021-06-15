@@ -71,6 +71,7 @@ instancevars:
     downloadAppsUrl: 'https://www.ettlingen.de/2827809/'
 
   konferenz.readi.de:
+    usedWebVersion: 1.0.5056-1
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
