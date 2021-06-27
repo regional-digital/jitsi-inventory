@@ -34,15 +34,18 @@ instancevars:
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07811/2555621"]},"numbersEnabled":true}'
 
   konferenz.blaustein.works:
+    usedWebVersion: 1.0.4628-1
     userDocumentationURL: 'https://www.blaustein.de/de/buerger-service/blausteiner-globalofon/was-ist-das-blausteiner-globalofon/'
     downloadAppsUrl: 'https://www.blaustein.de/de/buerger-service/blausteiner-globalofon/was-ist-das-blausteiner-globalofon/'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07304/9589531"]},"numbersEnabled":true}'
 
   konferenz.bietigheim.de:
+    usedWebVersion: 1.0.4628-1
     userDocumentationURL: 'https://www.bietigheim.de/web/gemeinde_bietje_schwaezzt_im_netz.html'
     downloadAppsUrl: 'https://www.bietigheim.de/web/gemeinde_bietje_schwaezzt_im_netz.html'
 
   konferenz.bretten.de:
+    usedWebVersion: 1.0.5056-1
     userDocumentationURL: 'https://www.bretten.de/peter-ruft-paul'
     downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
 
@@ -52,6 +55,7 @@ instancevars:
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
 
   konferenz.buehl.digital:
+    usedWebVersion: 1.0.5056-1
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
     certbotDomainString: konferenz.buehl.digital -d frontend.pp.buehl.digital
@@ -67,6 +71,7 @@ instancevars:
        'tileview', 'select-background', 'download', 'help', 'mute-everyone', 'mute-video-everyone', 'security'
 
   konferenz.ettlingen.digital:
+    usedWebVersion: 1.0.4628-1
     userDocumentationURL: 'https://www.ettlingen.de/2827809/'
     downloadAppsUrl: 'https://www.ettlingen.de/2827809/'
 
@@ -83,10 +88,12 @@ instancevars:
        'tileview', 'select-background', 'download', 'help', 'mute-everyone', 'mute-video-everyone', 'security'
 
   konferenz.schkeuditz.de:
+    usedWebVersion: 1.0.4628-1
     userDocumentationURL: 'https://www.schkeuditz.de/portal/seiten/Seite-900000181-27780.html'
     downloadAppsUrl: 'https://www.schkeuditz.de/portal/seiten/Seite-900000181-27780.html'
 
   konferenz.stutensee.de:
+    usedWebVersion: 1.0.4628-1
     userDocumentationURL: 'https://stutensee.de/bildung-freizeit/milchldle-40'
     downloadAppsUrl: 'https://stutensee.de/bildung-freizeit/milchldle-40'
 
@@ -119,14 +126,17 @@ instancevars:
         },
 
   rv-verbindet.ravensburg.de:
+    usedWebVersion: 1.0.4628-1
     userDocumentationURL: 'https://www.ravensburg.de/rv/gesellschaft-soziales/rv-verbindet.php'
     downloadAppsUrl: 'https://www.ravensburg.de/rv/gesellschaft-soziales/rv-verbindet.php'
 
   treff.neuweiler.de:
+    usedWebVersion: 1.0.4628-1
     userDocumentationURL: 'https://www.neuweiler.de/de/Aktuelles/Treffpunkt-Neuweiler'
     downloadAppsUrl: 'https://www.neuweiler.de/de/Aktuelles/Treffpunkt-Neuweiler'
 
   videokonferenz.rastatt.de:
+    usedWebVersion: 1.0.4628-1
     userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
     downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07222/9316413"]},"numbersEnabled":true}'
