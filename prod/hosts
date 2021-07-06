@@ -23,9 +23,6 @@ all:
             jvb3.pp.buehl.digital:
             jvb4.pp.buehl.digital:
             jvb5.pp.buehl.digital:
-            jvb6.pp.buehl.digital:
-            jvb7.pp.buehl.digital:
-            jvb8.pp.buehl.digital:
         jigasi:
           hosts:
             jvb3.pp.buehl.digital:
@@ -36,9 +33,6 @@ all:
         jvb3.pp.buehl.digital:
         jvb4.pp.buehl.digital:
         jvb5.pp.buehl.digital:
-        jvb6.pp.buehl.digital:
-        jvb7.pp.buehl.digital:
-        jvb8.pp.buehl.digital:
         signal01.pp.buehl.digital:
         signal02.pp.buehl.digital:
         securesignal01.pp.buehl.digital:
@@ -71,6 +65,3 @@ all:
         jvb3.pp.buehl.digital:
         jvb4.pp.buehl.digital:
         jvb5.pp.buehl.digital:
-        jvb6.pp.buehl.digital:
-        jvb7.pp.buehl.digital:
-        jvb8.pp.buehl.digital:
