@@ -29,6 +29,7 @@ instancevars:
       - bruslbabbld.bruchsal.de
 
   connect.offenburg.digital:
+    usedWebVersion: 1.0.5056-1
     userDocumentationURL: 'https://www.offenburg.de/connect'
     downloadAppsUrl: 'https://www.offenburg.de/connect'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07811/2555621"]},"numbersEnabled":true}'
@@ -126,17 +127,17 @@ instancevars:
         },
 
   rv-verbindet.ravensburg.de:
-    usedWebVersion: 1.0.4628-1
+    usedWebVersion: 1.0.5056-1
     userDocumentationURL: 'https://www.ravensburg.de/rv/gesellschaft-soziales/rv-verbindet.php'
     downloadAppsUrl: 'https://www.ravensburg.de/rv/gesellschaft-soziales/rv-verbindet.php'
 
   treff.neuweiler.de:
-    usedWebVersion: 1.0.4628-1
+    usedWebVersion: 1.0.5056-1
     userDocumentationURL: 'https://www.neuweiler.de/de/Aktuelles/Treffpunkt-Neuweiler'
     downloadAppsUrl: 'https://www.neuweiler.de/de/Aktuelles/Treffpunkt-Neuweiler'
 
   videokonferenz.rastatt.de:
-    usedWebVersion: 1.0.4628-1
+    usedWebVersion: 1.0.5056-1
     userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
     downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07222/9316413"]},"numbersEnabled":true}'
