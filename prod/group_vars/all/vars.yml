@@ -13,9 +13,9 @@ hostsblock1: |
   10.0.0.104 jvb4.pp.buehl.digital
   10.0.0.105 jvb5.pp.buehl.digital
   10.0.1.1 cloud.readi.de
-  10.0.1.2 jitsiadmin.readi.de
-  10.0.1.3 sso.readi.de
-  10.0.1.4 stats.buehl.digital
+  10.0.1.2 stats.buehl.digital 
+  10.0.1.3 jitsiadmin.readi.de
+  10.0.1.4 sso.readi.de 
 ssh_port: 2424
 filePathPrefix: inventory/prod_files
 letsencrypt_email: "{{ vault_letsencrypt_email }}"
