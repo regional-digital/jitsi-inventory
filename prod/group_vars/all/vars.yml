@@ -1,7 +1,7 @@
 ---
 dnsdomain: pp.buehl.digital
 privateVLANID: 4000
-privateVLANGeometry: 10.0.0.0/16
+privateVLANGeometry: 10.0.0.0/24
 privateVLANGateway: 10.0.0.1
 hostsblock1: |
   10.0.0.151 signal01.pp.buehl.digital
@@ -12,24 +12,17 @@ hostsblock1: |
   10.0.0.103 jvb3.pp.buehl.digital
   10.0.0.104 jvb4.pp.buehl.digital
   10.0.0.105 jvb5.pp.buehl.digital
-  10.0.0.106 jvb6.pp.buehl.digital
-  10.0.0.107 jvb7.pp.buehl.digital
-  10.0.0.108 jvb8.pp.buehl.digital
-  10.0.0.109 jvb9.pp.buehl.digital
-  10.0.0.110 jvb10.pp.buehl.digital
-  10.0.0.111 jvb11.pp.buehl.digital
-  10.0.0.112 jvb12.pp.buehl.digital
-  10.0.0.113 jvb13.pp.buehl.digital
-  10.0.0.114 jvb14.pp.buehl.digital
-  10.0.0.115 jvb15.pp.buehl.digital
-  10.0.1.2 stats.buehl.digital
-  10.0.1.3 jitsiadmin.buehl.digital
+  10.0.1.1 cloud.readi.de
+  10.0.1.2 jitsiadmin.readi.de
+  10.0.1.3 sso.readi.de
+  10.0.1.4 stats.buehl.digital
 ssh_port: 2424
-filePathPrefix: inventory_prod_files
+filePathPrefix: inventory/prod_files
 letsencrypt_email: "{{ vault_letsencrypt_email }}"
 users:
   - itrich
   - gabriel
+  - h2invent
 mysql_admin_password: "{{ vault_mysql_admin_password }}"
 prosody_user_focus_password: "{{ vault_prosody_user_focus_password }}"
 prosody_user_jvb_password: "{{ vault_prosody_user_jvb_password }}"
