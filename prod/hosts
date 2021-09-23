@@ -38,6 +38,11 @@ all:
         securesignal01.pp.buehl.digital:
         jitsiadmin.readi.de:
         sso.readi.de:
+    rsnapshot_client:
+      hosts:
+        jitsiadmin.readi.de:
+        sso.readi.de:
+        cloud.readi.de:
     nagios_agent:
       hosts:
         jvb1.pp.buehl.digital:
