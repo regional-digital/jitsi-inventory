@@ -15,35 +15,35 @@ instances:
 
 instancevars:
   konferenzdienst.bruchsal.digital:
-    usedWebVersion: 1.0.5056-1
+    usedWebVersion: 1.0.5211-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
   konferenzdienst.readi.de:
-    usedWebVersion: 1.0.5056-1
+    usedWebVersion: 1.0.5211-1
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
   geplantekonferenz.buehl.digital:
-    usedWebVersion: 1.0.5056-1
+    usedWebVersion: 1.0.5211-1
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
   geplante-videokonferenz.rastatt.de:
-    usedWebVersion: 1.0.5056-1
+    usedWebVersion: 1.0.5211-1
     userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
     downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
   admin.konferenz.ettlingen.digital:
-    usedWebVersion: 1.0.5056-1
+    usedWebVersion: 1.0.5211-1
     userDocumentationURL: 'https://www.ettlingen.de/2827809/'
     downloadAppsUrl: 'https://www.ettlingen.de/2827809/'
   jitsiadmin.bretten.de:
-    usedWebVersion: 1.0.5056-1
+    usedWebVersion: 1.0.5211-1
     userDocumentationURL: 'https://www.bretten.de/peter-ruft-paul'
     downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
   geplant.connect.offenburg.digital:
-    usedWebVersion: 1.0.5056-1
+    usedWebVersion: 1.0.5211-1
     userDocumentationURL: 'https://www.offenburg.de/connect'
     downloadAppsUrl: 'https://www.offenburg.de/connect'
     tokenAuthUrl: 'https://jitsi-admin.de/room/dashboard'
   securetest.bruchsal.digital:
-    usedWebVersion: 1.0.5056-1
+    usedWebVersion: 1.0.5211-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
