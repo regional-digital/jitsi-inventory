@@ -1,7 +1,7 @@
 ---
 bridgenumber: 1
 hostname: "jvb{{ bridgenumber }}"
-ansible_host: "{{ hostname }}.fritz.box"
+ansible_host: "{{ hostname }}"
 private_vlan_ip: "10.0.0.13{{ bridgenumber }}/24"
 internal_interface: "10.0.0.13{{ bridgenumber }}"
-fqdn: "{{ hostname }}.fritz.box"
+fqdn: "{{ hostname }}"
