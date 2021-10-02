@@ -1,5 +1,5 @@
-fqdn: signal02.speedport.ip
+fqdn: signal02.fritz.box
 private_vlan_ip: 10.0.0.112/24
 hostname: signal02
-cluster_partner: signal01.speedport.ip
+cluster_partner: signal01.fritz.box
 internal_interface: 10.0.0.112

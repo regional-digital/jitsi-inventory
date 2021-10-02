@@ -1,30 +1,33 @@
 [all]
-stats.speedport.ip
-signal01.speedport.ip
-signal02.speedport.ip
-jvb1.speedport.ip
-jvb2.speedport.ip
+stats.fritz.box
+signal01.fritz.box
+signal02.fritz.box
+jvb1.fritz.box
+jvb2.fritz.box
+jvb3.fritz.box
 
 [shardOpenJitsi]
-signal01.speedport.ip
-signal02.speedport.ip
+signal01.fritz.box
+signal02.fritz.box
 
 [shardClosedJitsi]
-securesignal01.speedport.ip
+#securesignal01.fritz.box
 
 [jitsisignal]
-signal01.speedport.ip
-signal02.speedport.ip
-securesignal01.speedport.ip
+signal01.fritz.box
+signal02.fritz.box
+#securesignal01.fritz.box
 
 [jitsi]
-signal01.speedport.ip
-signal02.speedport.ip
-securesignal01.speedport.ip
-jvb1.speedport.ip
-jvb2.speedport.ip
+signal01.fritz.box
+signal02.fritz.box
+#securesignal01.fritz.box
+jvb1.fritz.box
+jvb2.fritz.box
+jvb3.fritz.box
 
 [jitsivideobride]
-jvb1.speedport.ip
-jvb2.speedport.ip
+jvb1.fritz.box
+jvb2.fritz.box
+jvb3.fritz.box
 

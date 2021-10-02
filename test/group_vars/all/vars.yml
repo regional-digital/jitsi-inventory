@@ -5,15 +5,15 @@ privateVLANID: 4000
 privateVLANGeometry: 10.0.0.0/16
 privateVLANGateway: 10.0.0.1
 hostsblock1: |
-        10.0.0.111 signal01.speedport.ip frontend.speedport.ip
-        10.0.0.112 signal02.speedport.ip frontend.speedport.ip
-        10.0.0.121 securesignal01.speedport.ip
-        10.0.0.101 stats.speedport.ip
-        10.0.0.131 jvb1.speedport.ip
-        10.0.0.132 jfb2.speedport.ip
+        10.0.0.111 signal01.fritz.box frontend.fritz.box
+        10.0.0.112 signal02.fritz.box frontend.fritz.box
+        10.0.0.121 securesignal01.fritz.box
+        10.0.0.101 stats.fritz.box
+        10.0.0.131 jvb1.fritz.box
+        10.0.0.132 jfb2.fritz.box
 ssh_port: 2424
 filePathPrefix: inventory_test_files
-dnsdomain: speedport.ip
+dnsdomain: fritz.box
 letsencrypt_email: "{{ vault_letsencrypt_email }}"
 
 app_id:  "{{ vault_app_id }}"
