@@ -27,7 +27,7 @@ influxdb_jitsi_password: "{{ vault_influxdb_jitsi_password }}"
 prosody_user_focus_password: "{{ vault_prosody_user_focus_password }}"
 prosody_user_jvb_password: "{{ vault_prosody_user_jvb_password }}"
 jicofo_secret: "{{ vault_jicofo_secret }}"
-prosody_user_focus_password: "{{ vault_prosody_user_focus_password }}"
+jicofo_auth_password: "{{ vault_jicofo_auth_password }}"
 component_secret: "{{ vault_component_secret }}"
 turncredentials_secret: "{{ vault_turncredentials_secret }}"
 turnservername: turn1.fritz.box
