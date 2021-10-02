@@ -5,12 +5,14 @@ privateVLANID: 4000
 privateVLANGeometry: 10.0.0.0/16
 privateVLANGateway: 10.0.0.1
 hostsblock1: |
-        10.0.0.111 signal01.fritz.box frontend.fritz.box
+        10.0.0.111 signal01.fritz.box frontend.fritz.box konferenztest.bruchsal.digital frontend.fritz.box
         10.0.0.112 signal02.fritz.box frontend.fritz.box
         10.0.0.121 securesignal01.fritz.box
         10.0.0.101 stats.fritz.box
         10.0.0.131 jvb1.fritz.box
-        10.0.0.132 jfb2.fritz.box
+        10.0.0.132 jvb2.fritz.box
+        10.0.0.133 jvb3.fritz.box
+        10.0.0.141 turn1.fritz.box
 ssh_port: 2424
 filePathPrefix: inventory/test_files
 dnsdomain: fritz.box
@@ -25,6 +27,8 @@ influxdb_jitsi_password: "{{ vault_influxdb_jitsi_password }}"
 prosody_user_focus_password: "{{ vault_prosody_user_focus_password }}"
 prosody_user_jvb_password: "{{ vault_prosody_user_jvb_password }}"
 jicofo_secret: "{{ vault_jicofo_secret }}"
-jicofo_auth_password: "{{ vault_jicofo_auth_password }}"
+prosody_user_focus_password: "{{ vault_prosody_user_focus_password }}"
 component_secret: "{{ vault_component_secret }}"
 turncredentials_secret: "{{ vault_turncredentials_secret }}"
+turnservername: turn1.fritz.box
+acme_sh_additional_options: --server https://rpi4:4343/acme/acme/directory --days 5

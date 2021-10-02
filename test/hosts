@@ -5,6 +5,7 @@ signal02.fritz.box
 jvb1.fritz.box
 jvb2.fritz.box
 jvb3.fritz.box
+turn1.fritz.box
 
 [shardOpenJitsi]
 signal01.fritz.box
@@ -31,3 +32,5 @@ jvb1.fritz.box
 jvb2.fritz.box
 jvb3.fritz.box
 
+[turnserver]
+turn1.fritz.box
