@@ -12,7 +12,7 @@ hostsblock1: |
         10.0.0.131 jvb1.fritz.box
         10.0.0.132 jfb2.fritz.box
 ssh_port: 2424
-filePathPrefix: inventory_test_files
+filePathPrefix: inventory/test_files
 dnsdomain: fritz.box
 letsencrypt_email: "{{ vault_letsencrypt_email }}"
 
