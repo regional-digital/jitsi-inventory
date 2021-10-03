@@ -78,28 +78,28 @@ instancevars:
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
-    additionalConfig: |
-      constraints: {
-        video: {
-          height: {
-            ideal: 720,
-            max: 720,
-            min: 180
-          },
-          width: {
-            ideal: 1280,
-            max: 1280,
-            min: 320
-            }
-          }
-        },
-        videoQuality: {
-          maxBitratesVideo: {
-            low: 200000,
-            standard: 500000,
-            high: 1500000
-          },
-        },
+#    additionalConfig: |
+#      constraints: {
+#        video: {
+#          height: {
+#            ideal: 720,
+#            max: 720,
+#            min: 180
+#          },
+#          width: {
+#            ideal: 1280,
+#            max: 1280,
+#            min: 320
+#            }
+#          }
+#        },
+#        videoQuality: {
+#          maxBitratesVideo: {
+#            low: 200000,
+#            standard: 500000,
+#            high: 1500000
+#          },
+#        },
 
   rv-verbindet.ravensburg.de:
 #    userDocumentationURL: 'https://www.ravensburg.de'
