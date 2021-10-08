@@ -1,0 +1,28 @@
+---
+users:
+  - alegab
+privateVLANID: 4000
+privateVLANGeometry: 10.0.0.0/16
+privateVLANGateway: 10.0.0.1
+hostsblock1: |
+        10.0.0.111 deb-signal01 frontend konferenztest.bruchsal.digital
+        10.0.0.112 deb-signal02 frontend
+        10.0.0.131 deb-videobridge01
+        10.0.0.132 deb-videobridge02
+        10.0.0.133 deb-videobridge03
+        10.0.0.141 deb-turn01
+ssh_port: 22
+filePathPrefix: inventory/test-debian_files
+dnsdomain: 
+letsencrypt_email: "{{ vault_letsencrypt_email }}"
+
+app_id:  "{{ vault_app_id }}"
+app_secret:  "{{ vault_app_secret }}"
+prosody_user_focus_password: "{{ vault_prosody_user_focus_password }}"
+prosody_user_jvb_password: "{{ vault_prosody_user_jvb_password }}"
+jicofo_secret: "{{ vault_jicofo_secret }}"
+jicofo_auth_password: "{{ vault_jicofo_auth_password }}"
+component_secret: "{{ vault_component_secret }}"
+turncredentials_secret: "{{ vault_turncredentials_secret }}"
+turnservername: turn01
+acme_sh_additional_options: --server https://rpi4:4343/acme/acme/directory --days 30

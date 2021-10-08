@@ -1,0 +1,6 @@
+---
+fqdn: deb-signal01
+private_vlan_ip: 10.0.0.111/24
+hostname: deb-signal01
+cluster_partner: deb-signal02
+internal_interface: 10.0.0.111

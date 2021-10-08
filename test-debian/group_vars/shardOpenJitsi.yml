@@ -1,0 +1,115 @@
+is_Cluster: True
+shardName: open.jitsi
+shardNameShort: open
+instances:
+#  - brusl-babbld.bruchsal.de
+#  - connect.offenburg.digital
+#  - konferenz.bietigheim.de
+#  - konferenz.blaustein.works
+#  - konferenz.bretten.de
+#  - konferenz.bruchsal.digital
+#  - konferenz.buehl.digital
+#  - konferenz.ettlingen.digital
+#  - konferenz.readi.de
+#  - konferenz.schkeuditz.de
+#  - konferenz.stutensee.de
+  - konferenztest.bruchsal.digital
+#  - rv-verbindet.ravensburg.de
+#  - treff.neuweiler.de
+#  - videokonferenz.rastatt.de
+
+instancevars:
+#  brusl-babbld.bruchsal.de:
+#    userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
+#    downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
+#    certbotDomainString: brusl-babbld.bruchsal.de -d bruslbabbld.bruchsal.de
+#    domainNames:
+#      - brusl-babbld.bruchsal.de
+#      - bruslbabbld.bruchsal.de
+
+  connect.offenburg.digital:
+#    userDocumentationURL: 'https://www.offenburg.de/connect'
+#    downloadAppsUrl: 'https://www.offenburg.de/html/misc/datenschutz.html'
+#    dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07811/2555621"]},"numbersEnabled":true}'
+
+  konferenz.blaustein.works:
+#    userDocumentationURL: 'https://www.blaustein.de/de/buerger-service/blausteiner-globalofon/was-ist-das-blausteiner-globalofon/'
+#    downloadAppsUrl: 'https://www.blaustein.de/de/buerger-service/blausteiner-globalofon/was-ist-das-blausteiner-globalofon/'
+#    dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07304/9589531"]},"numbersEnabled":true}'
+
+  konferenz.bietigheim.de:
+
+  konferenz.bretten.de:
+#    userDocumentationURL: 'https://www.bretten.de/peter-ruft-paul'
+#    downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
+
+  konferenz.bruchsal.digital:
+#    userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
+#    downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
+
+  konferenz.buehl.digital:
+#    userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
+#    downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
+#    certbotDomainString: konferenz.buehl.digital -d frontend.pp.buehl.digital
+#    domainNames:
+#      - konferenz.buehl.digital
+#      - frontend.pp.buehl.digital
+#    dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
+
+  konferenz.ettlingen.digital:
+#    userDocumentationURL: 'https://www.ettlingen.de/2827809/'
+#    downloadAppsUrl: 'https://www.ettlingen.de/2827809/'
+
+  konferenz.readi.de:
+#    userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
+#    downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
+#    dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
+
+  konferenz.schkeuditz.de:
+#    userDocumentationURL: 'https://www.schkeuditz.de/portal/seiten/Seite-900000181-27780.html'
+#    downloadAppsUrl: 'https://www.schkeuditz.de/portal/seiten/Seite-900000181-27780.html'
+
+  konferenz.stutensee.de:
+#    userDocumentationURL: 'https://stutensee.de/bildung-freizeit/milchldle-40'
+#    downloadAppsUrl: 'https://stutensee.de/bildung-freizeit/milchldle-40'
+
+  konferenztest.bruchsal.digital:
+    usedWebVersion: 1.0.5307-1
+    dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
+    userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
+    downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
+#    additionalConfig: |
+#      constraints: {
+#        video: {
+#          height: {
+#            ideal: 720,
+#            max: 720,
+#            min: 180
+#          },
+#          width: {
+#            ideal: 1280,
+#            max: 1280,
+#            min: 320
+#            }
+#          }
+#        },
+#        videoQuality: {
+#          maxBitratesVideo: {
+#            low: 200000,
+#            standard: 500000,
+#            high: 1500000
+#          },
+#        },
+
+  rv-verbindet.ravensburg.de:
+#    userDocumentationURL: 'https://www.ravensburg.de'
+#    downloadAppsUrl: 'https://www.ravensburg.de'
+
+  treff.neuweiler.de:
+#    userDocumentationURL: 'https://www.neuweiler.de/de/Aktuelles/Treffpunkt-Neuweiler'
+#    downloadAppsUrl: 'https://www.neuweiler.de/de/Aktuelles/Treffpunkt-Neuweiler'
+
+  videokonferenz.rastatt.de:
+#    userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
+#    downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
+#    dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07222/9316413"]},"numbersEnabled":true}'
