@@ -3,6 +3,7 @@ users:
   - alegab
 privateVLANID: 4000
 privateVLANGeometry: 10.0.0.0/16
+privateVLANNetmask: 255.255.255.0
 privateVLANGateway: 10.0.0.1
 hostsblock1: |
         10.0.0.111 deb-signal01 frontend konferenztest.bruchsal.digital
@@ -11,7 +12,7 @@ hostsblock1: |
         10.0.0.132 deb-videobridge02
         10.0.0.133 deb-videobridge03
         10.0.0.141 deb-turn01
-ssh_port: 22
+ssh_port: 2424
 filePathPrefix: inventory/test-debian_files
 dnsdomain: 
 letsencrypt_email: "{{ vault_letsencrypt_email }}"
