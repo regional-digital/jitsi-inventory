@@ -1,0 +1,5 @@
+---
+fqdn: deb-securesignal
+hostname: deb-securesignal
+internal_interface: 10.0.0.113
+private_vlan_ip: "{{ internal_interface }}/24"

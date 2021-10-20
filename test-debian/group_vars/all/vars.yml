@@ -2,12 +2,13 @@
 users:
   - alegab
 privateVLANID: 4000
-privateVLANGeometry: 10.0.0.0/16
+privateVLANGeometry: 10.0.0.0/24
 privateVLANNetmask: 255.255.255.0
 privateVLANGateway: 10.0.0.1
 hostsblock1: |
         10.0.0.111 deb-signal01 frontend konferenztest.bruchsal.digital
         10.0.0.112 deb-signal02 frontend
+        10.0.0.113 deb-securesignal
         10.0.0.131 deb-videobridge01
         10.0.0.132 deb-videobridge02
         10.0.0.133 deb-videobridge03
@@ -28,9 +29,3 @@ turnservername: deb-turn01
 frontenddnsname: frontend
 acme_sh_additional_options: --server https://rpi4:4343/acme/acme/directory --days 30 --insecure
 ansible_port: 22
-prosodyDomains:
-  - openjitsi
-  - closedjitsi
-prosodyDomainConfig:
-  closedjitsi: 
-    authentication: token

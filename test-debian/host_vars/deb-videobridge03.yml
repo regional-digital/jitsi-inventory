@@ -2,6 +2,6 @@
 bridgenumber: 3
 hostname: "deb-videobridge0{{ bridgenumber }}"
 ansible_host: "deb-videobridge0{{ bridgenumber }}"
-private_vlan_ip: "10.0.0.13{{ bridgenumber }}/24"
 internal_interface: "10.0.0.13{{ bridgenumber }}"
+private_vlan_ip: "{{ internal_interface }}/24"
 fqdn: "{{ hostname }}"

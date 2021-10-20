@@ -1,6 +1,5 @@
-shardName: closed.jitsi
-shardNameShort: closed
-enableFeaturesBasedOnToken: True
+shardName: shardClosedJitsi
+authentication: token
 disableInviteFunctions: True
 instances:
   - konferenzdienst.bruchsal.digital

@@ -1,6 +1,5 @@
 is_Cluster: True
-shardName: open.jitsi
-shardNameShort: open
+shardName: shardOpenJitsi
 instances:
 #  - brusl-babbld.bruchsal.de
 #  - connect.offenburg.digital

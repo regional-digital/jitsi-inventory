@@ -1,5 +1,5 @@
 ---
 hostname: "deb-turn01"
-private_vlan_ip: "10.0.0.141/24"
 internal_interface: "10.0.0.141"
+private_vlan_ip: "{{ internal_interface }}/24"
 fqdn: "{{ hostname }}"
