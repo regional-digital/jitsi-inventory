@@ -32,3 +32,4 @@ ansible_port: 22
 prosodyDomains:
   - shardopenjitsi
   - shardclosedjitsi
+PermitRootLogin: prohibit-password
