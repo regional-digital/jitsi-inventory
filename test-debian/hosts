@@ -7,12 +7,12 @@ deb-videobridge02
 deb-videobridge03
 deb-turn01
 
-[frontendserver-debian]
+[jitsisignal]
 deb-signal01
 deb-signal02
 deb-securesignal
 
-[jitsi-debian]
+[jitsi]
 deb-signal01
 deb-signal02
 deb-securesignal
@@ -20,17 +20,17 @@ deb-videobridge01
 deb-videobridge02
 deb-videobridge03
 
-[videobridge-debian]
+[videobridge]
 deb-videobridge01
 deb-videobridge02
 deb-videobridge03
 
-[turnserver-debian]
+[turnserver]
 deb-turn01
 
-[shardOpenJitsi]
+[shardopenjitsi]
 deb-signal01
 deb-signal02
 
-[shardClosedJitsi]
+[shardclosedjitsi]
 deb-securesignal

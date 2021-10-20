@@ -29,3 +29,6 @@ turnservername: deb-turn01
 frontenddnsname: frontend
 acme_sh_additional_options: --server https://rpi4:4343/acme/acme/directory --days 30 --insecure
 ansible_port: 22
+prosodyDomains:
+  - shardopenjitsi
+  - shardclosedjitsi

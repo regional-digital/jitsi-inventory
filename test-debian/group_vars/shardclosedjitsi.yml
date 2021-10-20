@@ -1,4 +1,4 @@
-shardName: shardClosedJitsi
+shardName: shardclosedjitsi
 authentication: token
 disableInviteFunctions: True
 instances:
