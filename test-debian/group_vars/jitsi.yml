@@ -1,1 +1,4 @@
-frontenddnsname: frontend.fritz.box
+frontenddnsname: frontend
+userRegion: BW
+BridgeSelectionStrategy: IntraRegionBridgeSelectionStrategy
+videobridgeNamePrefix: deb-videobridge0

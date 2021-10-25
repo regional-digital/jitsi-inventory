@@ -26,7 +26,8 @@ jicofo_auth_password: "{{ vault_jicofo_auth_password }}"
 component_secret: "{{ vault_component_secret }}"
 turncredentials_secret: "{{ vault_turncredentials_secret }}"
 turnservername: deb-turn01
-frontenddnsname: frontend
+turnserverport: 443
+turnserversport: 443
 acme_sh_additional_options: --server https://rpi4:4343/acme/acme/directory --days 30 --insecure
 ansible_port: 22
 prosodyDomains:
