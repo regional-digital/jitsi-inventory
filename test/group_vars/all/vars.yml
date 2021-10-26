@@ -5,6 +5,7 @@ users:
 privateVLANID: 4000
 privateVLANGeometry: 10.0.0.0/16
 privateVLANGateway: 10.0.0.1
+privateVLANNetmask: 255.255.255.0
 hostsblock1: |
         10.0.0.111 signal01 signal01{{ dnsdomain | default('') }} frontend{{ dnsdomain | default('') }} konferenztest.bruchsal.digital
         10.0.0.112 signal02 signal02{{ dnsdomain | default('') }}
