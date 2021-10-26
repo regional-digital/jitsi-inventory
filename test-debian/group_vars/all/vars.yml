@@ -1,4 +1,5 @@
 ---
+dnsdomain: .fritz.box
 users:
   - alegab
 privateVLANID: 4000
@@ -15,7 +16,6 @@ hostsblock1: |
         10.0.0.141 deb-turn01
 ssh_port: 22
 filePathPrefix: inventory/test-debian_files
-dnsdomain: 
 letsencrypt_email: "{{ vault_letsencrypt_email }}"
 app_id:  "{{ vault_app_id }}"
 app_secret:  "{{ vault_app_secret }}"
@@ -27,7 +27,6 @@ component_secret: "{{ vault_component_secret }}"
 turncredentials_secret: "{{ vault_turncredentials_secret }}"
 turnservername: deb-turn01
 turnserverport: 443
-turnserversport: 443
 acme_sh_additional_options: --server https://rpi4:4343/acme/acme/directory --days 30 --insecure
 ansible_port: 22
 prosodyDomains:
