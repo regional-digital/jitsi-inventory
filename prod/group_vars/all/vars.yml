@@ -1,5 +1,5 @@
 ---
-dnsdomain: pp.buehl.digital
+dnsdomain: .pp.buehl.digital
 privateVLANID: 4000
 privateVLANGeometry: 10.0.0.0/24
 privateVLANGateway: 10.0.0.1

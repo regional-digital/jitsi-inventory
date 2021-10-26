@@ -7,11 +7,11 @@ jvb2.fritz.box
 jvb3.fritz.box
 turn1.fritz.box
 
-[shardOpenJitsi]
+[shardopenjitsi]
 signal01.fritz.box
 signal02.fritz.box
 
-[shardClosedJitsi]
+[shardclosedjitsi]
 #securesignal01.fritz.box
 
 [jitsisignal]

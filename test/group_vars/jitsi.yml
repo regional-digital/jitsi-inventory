@@ -1,1 +1,4 @@
 frontenddnsname: frontend.fritz.box
+userRegion: BW
+BridgeSelectionStrategy: IntraRegionBridgeSelectionStrategy
+videobridgeNamePrefix: jvb

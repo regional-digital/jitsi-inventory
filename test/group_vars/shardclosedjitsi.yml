@@ -1,5 +1,4 @@
-shardName: closed.jitsi
-shardNameShort: closed
+shardName: shardclosedjitsi
 enableFeaturesBasedOnToken: True
 disableInviteFunctions: True
 instances:

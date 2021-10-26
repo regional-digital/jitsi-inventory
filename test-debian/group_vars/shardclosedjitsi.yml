@@ -11,6 +11,7 @@ instancevars:
   konferenzdienst.bruchsal.digital:
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
+    usedWebVersion: 1.0.5415-1
 #  konferenzdienst.readi.de:
 #    userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
 #    downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
