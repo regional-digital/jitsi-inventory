@@ -16,7 +16,7 @@ all:
             shardClosedJitsi:
               hosts:
                 securesignal01.pp.buehl.digital:
-        jitsivideobride:
+        videobridge:
           hosts:
             jvb1.pp.buehl.digital:
             jvb2.pp.buehl.digital:
