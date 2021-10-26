@@ -7,6 +7,15 @@ deb-videobridge02
 deb-videobridge03
 deb-turn01
 
+[debian]
+deb-signal01
+deb-signal02
+deb-securesignal
+deb-videobridge01
+deb-videobridge02
+deb-videobridge03
+deb-turn01
+
 [jitsisignal]
 deb-signal01
 deb-signal02
