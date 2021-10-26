@@ -1,0 +1,5 @@
+---
+hostname: stats
+fqdn: "{{ hostname }}{{ dnsdomain | default('') }}"
+internal_interface: 10.0.0.101
+private_vlan_ip: 10.0.0.101/24

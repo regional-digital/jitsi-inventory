@@ -1,6 +1,0 @@
----
-fqdn: signal02
-private_vlan_ip: 10.0.0.112/24
-hostname: signal02
-cluster_partner: signal01
-internal_interface: 10.0.0.112

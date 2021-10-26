@@ -1,4 +1,4 @@
-frontenddnsname: frontend.fritz.box
+frontenddnsname: frontend{{ dnsdomain | default('') }}
 userRegion: BW
 BridgeSelectionStrategy: IntraRegionBridgeSelectionStrategy
-videobridgeNamePrefix: jvb
+videobridgeNamePrefix: jvb  
