@@ -1,14 +1,16 @@
 [all]
-#stats
 signal01
 signal02
 jvb1
 jvb2
 jvb3
 turn1
+jitsiadmin
+
+[debian]
+jitsiadmin
 
 [ubuntu]
-#stats
 signal01
 signal02
 jvb1
