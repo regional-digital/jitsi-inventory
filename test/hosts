@@ -1,36 +1,45 @@
 [all]
-#stats.fritz.box
-signal01.fritz.box
-signal02.fritz.box
-jvb1.fritz.box
-jvb2.fritz.box
-jvb3.fritz.box
-turn1.fritz.box
+#stats
+signal01
+signal02
+jvb1
+jvb2
+jvb3
+turn1
+
+[ubuntu]
+#stats
+signal01
+signal02
+jvb1
+jvb2
+jvb3
+turn1
 
 [shardopenjitsi]
-signal01.fritz.box
-signal02.fritz.box
+signal01
+signal02
 
 [shardclosedjitsi]
-#securesignal01.fritz.box
+#securesignal01
 
 [jitsisignal]
-signal01.fritz.box
-signal02.fritz.box
-#securesignal01.fritz.box
+signal01
+signal02
+#securesignal01
 
 [jitsi]
-signal01.fritz.box
-signal02.fritz.box
-#securesignal01.fritz.box
-jvb1.fritz.box
-jvb2.fritz.box
-jvb3.fritz.box
+signal01
+signal02
+#securesignal01
+jvb1
+jvb2
+jvb3
 
-[jitsivideobride]
-jvb1.fritz.box
-jvb2.fritz.box
-jvb3.fritz.box
+[videobridge]
+jvb1
+jvb2
+jvb3
 
 [turnserver]
-turn1.fritz.box
+turn1
