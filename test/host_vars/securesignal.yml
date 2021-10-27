@@ -1,5 +1,5 @@
 ---
-hostname: securesignal01
+hostname: securesignal
 fqdn: "{{ hostname }}{{ dnsdomain | default('') }}"
 private_vlan_ip: 10.0.0.121/24
 internal_interface: 10.0.0.121

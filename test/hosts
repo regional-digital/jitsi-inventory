@@ -23,17 +23,17 @@ signal01
 signal02
 
 [shardclosedjitsi]
-#securesignal01
+securesignal
 
 [jitsisignal]
 signal01
 signal02
-#securesignal01
+securesignal
 
 [jitsi]
 signal01
 signal02
-#securesignal01
+securesignal
 jvb1
 jvb2
 jvb3
