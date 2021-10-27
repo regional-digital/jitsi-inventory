@@ -10,6 +10,9 @@ jitsiadmin
 [debian]
 jitsiadmin
 
+[jitsi-admin]
+jitsiadmin
+
 [ubuntu]
 signal01
 signal02
