@@ -3,3 +3,4 @@ frontenddnsname: frontend{{ dnsdomain | default('') }}
 userRegion: BW
 BridgeSelectionStrategy: IntraRegionBridgeSelectionStrategy
 videobridgeNamePrefix: jvb
+defaultWebVersion: 1.0.5415-1
