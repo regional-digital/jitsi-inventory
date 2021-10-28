@@ -1,8 +1,5 @@
 ---
 is_Cluster: True
-clusterNodes:
-  - deb-signal01
-  - deb-signal02
 shardName: shardopenjitsi
 instances:
 #  - brusl-babbld.bruchsal.de
