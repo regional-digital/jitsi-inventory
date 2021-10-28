@@ -7,20 +7,8 @@ jvb3
 turn1
 jitsiadmin
 
-[debian]
-jitsiadmin
-
 [jitsi-admin]
 jitsiadmin
-
-[ubuntu]
-signal01
-signal02
-securesignal
-jvb1
-jvb2
-jvb3
-turn1
 
 [shardopenjitsi]
 signal01
