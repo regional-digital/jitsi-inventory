@@ -1,69 +1,78 @@
-all:
-  hosts:
-    cloud.readi.de:
-  children:
-    stats:
-      hosts:
-        stats.buehl.digital:
-    jitsi:
-      children:
-        jitsisignal:
-          children:
-            shardOpenJitsi: 
-              hosts:
-                signal01.pp.buehl.digital:
-                signal02.pp.buehl.digital:
-            shardClosedJitsi:
-              hosts:
-                securesignal01.pp.buehl.digital:
-        videobridge:
-          hosts:
-            jvb1.pp.buehl.digital:
-            jvb2.pp.buehl.digital:
-            jvb3.pp.buehl.digital:
-            jvb4.pp.buehl.digital:
-            jvb5.pp.buehl.digital:
-        jigasi:
-          hosts:
-            jvb3.pp.buehl.digital:
-    telegraf:
-      hosts:
-        jvb1.pp.buehl.digital:
-        jvb2.pp.buehl.digital:
-        jvb3.pp.buehl.digital:
-        jvb4.pp.buehl.digital:
-        jvb5.pp.buehl.digital:
-        signal01.pp.buehl.digital:
-        signal02.pp.buehl.digital:
-        securesignal01.pp.buehl.digital:
-        jitsiadmin.readi.de:
-        sso.readi.de:
-    rsnapshot_client:
-      hosts:
-        jitsiadmin.readi.de:
-        sso.readi.de:
-        cloud.readi.de:
-    nagios_agent:
-      hosts:
-        jvb1.pp.buehl.digital:
-        jvb2.pp.buehl.digital:
-        jvb3.pp.buehl.digital:
-        jvb4.pp.buehl.digital:
-        jvb5.pp.buehl.digital:
-        signal01.pp.buehl.digital:
-        signal02.pp.buehl.digital:
-        securesignal01.pp.buehl.digital:
-        jitsiadmin.readi.de:
-        sso.readi.de:
-        cloud.readi.de:
-        stats.buehl.digital:
-    no-cron-apt:
-      hosts:
-        signal01.pp.buehl.digital:
-        signal02.pp.buehl.digital:
-        securesignal01.pp.buehl.digital:
-        jvb1.pp.buehl.digital:
-        jvb2.pp.buehl.digital:
-        jvb3.pp.buehl.digital:
-        jvb4.pp.buehl.digital:
-        jvb5.pp.buehl.digital:
+[all]
+cloud.readi.de
+
+[stats]
+stats.buehl.digital
+
+[jitsi]
+signal01.pp.buehl.digital
+signal02.pp.buehl.digital
+securesignal01.pp.buehl.digital
+jvb1.pp.buehl.digital
+jvb2.pp.buehl.digital
+jvb3.pp.buehl.digital
+jvb4.pp.buehl.digital
+jvb5.pp.buehl.digital
+
+[jitsisignal]
+signal01.pp.buehl.digital
+signal02.pp.buehl.digital
+securesignal01.pp.buehl.digital
+
+[shardOpenJitsi] 
+signal01.pp.buehl.digital
+signal02.pp.buehl.digital
+
+[shardClosedJitsi]
+securesignal01.pp.buehl.digital
+
+[videobridge]
+jvb1.pp.buehl.digital
+jvb2.pp.buehl.digital
+jvb3.pp.buehl.digital
+jvb4.pp.buehl.digital
+jvb5.pp.buehl.digital
+
+[jigasi]
+jvb3.pp.buehl.digital
+
+[telegraf]
+jvb1.pp.buehl.digital
+jvb2.pp.buehl.digital
+jvb3.pp.buehl.digital
+jvb4.pp.buehl.digital
+jvb5.pp.buehl.digital
+signal01.pp.buehl.digital
+signal02.pp.buehl.digital
+securesignal01.pp.buehl.digital
+jitsiadmin.readi.de
+sso.readi.de
+
+[rsnapshot_client]
+jitsiadmin.readi.de
+sso.readi.de
+cloud.readi.de
+
+[nagios_agent]
+jvb1.pp.buehl.digital
+jvb2.pp.buehl.digital
+jvb3.pp.buehl.digital
+jvb4.pp.buehl.digital
+jvb5.pp.buehl.digital
+signal01.pp.buehl.digital
+signal02.pp.buehl.digital
+securesignal01.pp.buehl.digital
+jitsiadmin.readi.de
+sso.readi.de
+cloud.readi.de
+stats.buehl.digital
+
+[no-cron-apt]
+signal01.pp.buehl.digital
+signal02.pp.buehl.digital
+securesignal01.pp.buehl.digital
+jvb1.pp.buehl.digital
+jvb2.pp.buehl.digital
+jvb3.pp.buehl.digital
+jvb4.pp.buehl.digital
+jvb5.pp.buehl.digital
