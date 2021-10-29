@@ -1,7 +1,0 @@
----
-bridgenumber: 11
-hostname: "jvb{{ bridgenumber }}"
-ansible_host: "{{ hostname }}.pp.buehl.digital"
-private_vlan_ip: "10.0.0.1{{ bridgenumber }}/24"
-internal_interface: "10.0.0.1{{ bridgenumber }}"
-fqdn: "{{ hostname }}.pp.buehl.digital"
