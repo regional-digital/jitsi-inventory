@@ -3,7 +3,7 @@ dnsdomain: .fritz.box
 users:
   - alegab
 privateVLANID: 4000
-privateVLANGeometry: 10.0.0.0/16
+privateVLANGeometry: 10.0.0.0/24
 privateVLANGateway: 10.0.0.1
 privateVLANNetmask: 255.255.255.0
 hostsblock1: |

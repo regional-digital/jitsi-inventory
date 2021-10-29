@@ -1,7 +1,6 @@
 ---
 bridgenumber: 1
 hostname: "deb-videobridge0{{ bridgenumber }}"
-ansible_host: "deb-videobridge0{{ bridgenumber }}"
 internal_interface: "10.0.0.13{{ bridgenumber }}"
 private_vlan_ip: "{{ internal_interface }}/24"
 fqdn: "{{ hostname }}"
