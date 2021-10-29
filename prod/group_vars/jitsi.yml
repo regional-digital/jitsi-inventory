@@ -1,4 +1,6 @@
 ---
-allServerString: admins = { "signal01", "signal02", "securesignal01", "jvb1", "jvb2", "jvb3", "jvb4", "jvb5", "jvb6", "jvb7", "jvb8", "jvb9", "jvb10", "jvb11", "jvb12", "jvb13", "jvb14", "jvb15" }
-turnservername: turn.buehl.digital
-frontenddnsname: frontend.pp.buehl.digital
+frontenddnsname: frontend{{ dnsdomain | default('') }}
+userRegion: BW
+BridgeSelectionStrategy: IntraRegionBridgeSelectionStrategy
+videobridgeNamePrefix: jvb
+defaultWebVersion: 1.0.5415-1

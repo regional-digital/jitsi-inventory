@@ -1,6 +1,5 @@
-ansible_host: stats.buehl.digital
+hostname: stats
+fqdn: "{{ hostname }}{{ dnsdomain | default('') }}"
 private_vlan_ip: 10.0.1.2/24
 internal_interface: 10.0.1.2
 managevlanconfig: false
-fqdn: stats.buehl.digital
-hostname: stats

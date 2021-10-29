@@ -1,4 +1,13 @@
 [all]
+signal01.pp.buehl.digital
+signal02.pp.buehl.digital
+securesignal01.pp.buehl.digital
+jvb1.pp.buehl.digital
+jvb2.pp.buehl.digital
+jvb3.pp.buehl.digital
+jvb4.pp.buehl.digital
+jvb5.pp.buehl.digital
+stats.buehl.digital
 cloud.readi.de
 
 [stats]
@@ -76,3 +85,6 @@ jvb2.pp.buehl.digital
 jvb3.pp.buehl.digital
 jvb4.pp.buehl.digital
 jvb5.pp.buehl.digital
+
+[turnserver]
+jvb2

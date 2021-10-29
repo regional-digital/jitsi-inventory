@@ -3,6 +3,7 @@ dnsdomain: .pp.buehl.digital
 privateVLANID: 4000
 privateVLANGeometry: 10.0.0.0/24
 privateVLANGateway: 10.0.0.1
+privateVLANNetmask: 255.255.255.0
 hostsblock1: |
   10.0.0.151 signal01.pp.buehl.digital
   10.0.0.152 signal02.pp.buehl.digital
@@ -35,3 +36,10 @@ influxdb_url: "https://stats.buehl.digital:8086"
 influxdb_jitsi_user: "{{ vault_influxdb_jitsi_user }}"
 influxdb_jitsi_password: "{{ vault_influxdb_jitsi_password }}"
 rsnapshot_user_public_key:  "{{ vault_rsnapshot_user_public_key }}"
+turnservername: turn.buehl.digital
+turnserverport: 443
+#acme_sh_additional_options: --server https://host:port/acme/acme/directory --days 30 --insecure --force
+prosodyDomains:
+  - shardopenjitsi
+  - shardclosedjitsi
+#PermitRootLogin: prohibit-password

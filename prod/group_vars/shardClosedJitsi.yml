@@ -1,6 +1,6 @@
 shardName: closed.jitsi
-shardNameShort: closed
 enableFeaturesBasedOnToken: True
+authentication: token
 disableInviteFunctions: True
 instances:
   - konferenzdienst.bruchsal.digital
@@ -44,6 +44,6 @@ instancevars:
     downloadAppsUrl: 'https://www.offenburg.de/connect'
     tokenAuthUrl: 'https://jitsi-admin.de/room/dashboard'
   securetest.bruchsal.digital:
-    usedWebVersion: 1.0.5211-1
+    usedWebVersion: 1.0.5415-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
