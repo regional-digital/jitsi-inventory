@@ -1,0 +1,5 @@
+---
+jitsiadmin_instances:
+  - jitsiadmin.fritz.box
+
+jitsiadmin_instanceVars: "{{ vault_jitsiadmin_instanceVars }}"
