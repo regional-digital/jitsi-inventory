@@ -2,4 +2,4 @@ hostname: signal01
 fqdn: "{{ hostname }}{{ dnsdomain | default('') }}"
 private_vlan_ip: 10.0.0.151/24
 internal_interface: 10.0.0.151
-cluster_partner: signal02.pp.buehl.digital
+cluster_partner: signal02{{ dnsdomain | default('') }}
