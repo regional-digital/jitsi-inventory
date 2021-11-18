@@ -1,3 +1,4 @@
+---
 shardName: shardclosedjitsi
 enableFeaturesBasedOnToken: True
 authentication: token
@@ -15,31 +16,47 @@ instances:
 
 instancevars:
   konferenzdienst.bruchsal.digital:
-    usedWebVersion: 1.0.5211-1
+    usedWebVersion: 1.0.5415-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
+    APP_NAME: Brusl babbld!
+    BRAND_WATERMARK_LINK: 'https://www.bruchsal.de'
+    DEFAULT_BACKGROUND: '#315191'
+    DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
+    DEFAULT_LOGO_URL: 'images/watermark.png'
+    DEFAULT_REMOTE_DISPLAY_NAME: 'Gast'
+    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/watermark.png'
+    DISPLAY_WELCOME_PAGE_ADDITIONAL_CARD: "true"
+    JITSI_WATERMARK_LINK: 'https://www.bruchsal.de'
+    DISPLAY_WELCOME_PAGE_CONTENT: "true"
+    DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
+    ENABLE_DIAL_OUT: "false"
+    GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
+    NATIVE_APP_NAME: 'Brusl babbld!'
+    PROVIDER_NAME: 'Stadt Bruchsal'
+    SUPPORT_URL: 'https://www.bruchsal.de/videokonferenz'
   konferenzdienst.readi.de:
-    usedWebVersion: 1.0.5211-1
+    usedWebVersion: 1.0.5415-1
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
   geplantekonferenz.buehl.digital:
-    usedWebVersion: 1.0.5211-1
+    usedWebVersion: 1.0.5415-1
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
   geplante-videokonferenz.rastatt.de:
-    usedWebVersion: 1.0.5211-1
+    usedWebVersion: 1.0.5415-1
     userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
     downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
   admin.konferenz.ettlingen.digital:
-    usedWebVersion: 1.0.5211-1
+    usedWebVersion: 1.0.5415-1
     userDocumentationURL: 'https://www.ettlingen.de/2827809/'
     downloadAppsUrl: 'https://www.ettlingen.de/2827809/'
   jitsiadmin.bretten.de:
-    usedWebVersion: 1.0.5211-1
+    usedWebVersion: 1.0.5415-1
     userDocumentationURL: 'https://www.bretten.de/peter-ruft-paul'
     downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
   geplant.connect.offenburg.digital:
-    usedWebVersion: 1.0.5211-1
+    usedWebVersion: 1.0.5415-1
     userDocumentationURL: 'https://www.offenburg.de/connect'
     downloadAppsUrl: 'https://www.offenburg.de/connect'
     tokenAuthUrl: 'https://jitsi-admin.de/room/dashboard'
