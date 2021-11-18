@@ -1,4 +1,4 @@
-shardName: closed.jitsi
+shardName: shardclosedjitsi
 enableFeaturesBasedOnToken: True
 authentication: token
 disableInviteFunctions: True
@@ -47,3 +47,24 @@ instancevars:
     usedWebVersion: 1.0.5415-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
+    APP_NAME: Brusl babbld!
+    BRAND_WATERMARK_LINK: 'https://www.bruchsal.de'
+    DEFAULT_BACKGROUND: '#315191'
+    DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
+    DEFAULT_LOGO_URL: 'images/watermark.png'
+    DEFAULT_REMOTE_DISPLAY_NAME: 'Gast'
+    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/watermark.png'
+    DISPLAY_WELCOME_PAGE_ADDITIONAL_CARD: "true"
+    JITSI_WATERMARK_LINK: 'https://www.bruchsal.de'
+    DISPLAY_WELCOME_PAGE_CONTENT: "true"
+    DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
+    ENABLE_DIAL_OUT: "false"
+    GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
+    NATIVE_APP_NAME: 'Brusl babbld!'
+    PROVIDER_NAME: 'Stadt Bruchsal'
+    SUPPORT_URL: 'https://www.bruchsal.de/videokonferenz'
+    interfaceConfig_foot: |
+      document.addEventListener('DOMContentLoaded', function(){
+          document.querySelector(".watermark").style.maxWidth = "480px";
+          document.querySelector(".watermark").style.maxHeight = "140px";
+      }, false);
