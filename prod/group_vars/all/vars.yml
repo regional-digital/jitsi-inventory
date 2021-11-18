@@ -1,19 +1,19 @@
 ---
 dnsdomain: .pp.buehl.digital
 privateVLANID: 4000
-privateVLANGeometry: 10.0.0.0/24
+privateVLANGeometry: 10.0.0.0/16
 privateVLANGateway: 10.0.0.1
 privateVLANNetmask: 255.255.255.0
 hostsblock1: |
-  10.0.0.151 signal01.pp.buehl.digital
-  10.0.0.152 signal02.pp.buehl.digital
-  10.0.0.201 securesignal01.pp.buehl.digital
-  10.0.0.101 jvb1.pp.buehl.digital
-  10.0.0.102 jvb2.pp.buehl.digital turn.buehl.digital
-  10.0.0.103 jvb3.pp.buehl.digital
-  10.0.0.104 jvb4.pp.buehl.digital
-  10.0.0.105 jvb5.pp.buehl.digital
-  10.0.1.2 stats.buehl.digital
+  10.0.0.151 signal01 signal01{{ dnsdomain }}
+  10.0.0.152 signal02 signal02{{ dnsdomain }}
+  10.0.0.201 securesignal01 securesignal01{{ dnsdomain }}
+  10.0.0.101 jvb1 jvb1{{ dnsdomain }}
+  10.0.0.102 jvb2 jvb2{{ dnsdomain }} turn.buehl.digital
+  10.0.0.103 jvb3 jvb3{{ dnsdomain }}
+  10.0.0.104 jvb4 jvb4{{ dnsdomain }}
+  10.0.0.105 jvb5 jvb5{{ dnsdomain }}
+  10.0.1.2 stats stats.buehl.digital
 ssh_port: 2424
 filePathPrefix: inventory/prod_files
 letsencrypt_email: "{{ vault_letsencrypt_email }}"
@@ -38,7 +38,7 @@ influxdb_jitsi_password: "{{ vault_influxdb_jitsi_password }}"
 rsnapshot_user_public_key:  "{{ vault_rsnapshot_user_public_key }}"
 turnservername: turn.buehl.digital
 turnserverport: 443
-#acme_sh_additional_options: --server https://host:port/acme/acme/directory --days 30 --insecure --force
+acme_sh_additional_options: --server letsencrypt
 prosodyDomains:
   - shardopenjitsi
   - shardclosedjitsi
