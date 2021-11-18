@@ -1,12 +1,12 @@
 [all]
-signal01.pp.buehl.digital
-signal02.pp.buehl.digital
-securesignal01.pp.buehl.digital
-jvb1.pp.buehl.digital
-jvb2.pp.buehl.digital
-jvb3.pp.buehl.digital
-jvb4.pp.buehl.digital
-jvb5.pp.buehl.digital
+signal01
+signal02
+securesignal01
+jvb1
+jvb2
+jvb3
+jvb4
+jvb5
 stats.buehl.digital
 cloud.readi.de
 
@@ -14,46 +14,46 @@ cloud.readi.de
 stats.buehl.digital
 
 [jitsi]
-signal01.pp.buehl.digital
-signal02.pp.buehl.digital
-securesignal01.pp.buehl.digital
-jvb1.pp.buehl.digital
-jvb2.pp.buehl.digital
-jvb3.pp.buehl.digital
-jvb4.pp.buehl.digital
-jvb5.pp.buehl.digital
+signal01
+signal02
+securesignal01
+jvb1
+jvb2
+jvb3
+jvb4
+jvb5
 
 [jitsisignal]
-signal01.pp.buehl.digital
-signal02.pp.buehl.digital
-securesignal01.pp.buehl.digital
+signal01
+signal02
+securesignal01
 
-[shardOpenJitsi] 
-signal01.pp.buehl.digital
-signal02.pp.buehl.digital
+[shardopenjitsi] 
+signal01
+signal02
 
-[shardClosedJitsi]
-securesignal01.pp.buehl.digital
+[shardclosedjitsi]
+securesignal01
 
 [videobridge]
-jvb1.pp.buehl.digital
-jvb2.pp.buehl.digital
-jvb3.pp.buehl.digital
-jvb4.pp.buehl.digital
-jvb5.pp.buehl.digital
+jvb1
+jvb2
+jvb3
+jvb4
+jvb5
 
 [jigasi]
-jvb3.pp.buehl.digital
+jvb3
 
 [telegraf]
-jvb1.pp.buehl.digital
-jvb2.pp.buehl.digital
-jvb3.pp.buehl.digital
-jvb4.pp.buehl.digital
-jvb5.pp.buehl.digital
-signal01.pp.buehl.digital
-signal02.pp.buehl.digital
-securesignal01.pp.buehl.digital
+jvb1
+jvb2
+jvb3
+jvb4
+jvb5
+signal01
+signal02
+securesignal01
 jitsiadmin.readi.de
 sso.readi.de
 
@@ -63,28 +63,28 @@ sso.readi.de
 cloud.readi.de
 
 [nagios_agent]
-jvb1.pp.buehl.digital
-jvb2.pp.buehl.digital
-jvb3.pp.buehl.digital
-jvb4.pp.buehl.digital
-jvb5.pp.buehl.digital
-signal01.pp.buehl.digital
-signal02.pp.buehl.digital
-securesignal01.pp.buehl.digital
+jvb1
+jvb2
+jvb3
+jvb4
+jvb5
+signal01
+signal02
+securesignal01
 jitsiadmin.readi.de
 sso.readi.de
 cloud.readi.de
 stats.buehl.digital
 
 [no-cron-apt]
-signal01.pp.buehl.digital
-signal02.pp.buehl.digital
-securesignal01.pp.buehl.digital
-jvb1.pp.buehl.digital
-jvb2.pp.buehl.digital
-jvb3.pp.buehl.digital
-jvb4.pp.buehl.digital
-jvb5.pp.buehl.digital
+signal01
+signal02
+securesignal01
+jvb1
+jvb2
+jvb3
+jvb4
+jvb5
 
 [turnserver]
-jvb2.pp.buehl.digital
+jvb2
