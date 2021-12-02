@@ -14,13 +14,15 @@ hostsblock1: |
   10.0.0.104 jvb4 jvb4{{ dnsdomain }}
   10.0.0.105 jvb5 jvb5{{ dnsdomain }}
   10.0.1.2 stats stats.buehl.digital
+  148.251.81.238 turn1 turn1.pp.buehl.digital
+  178.63.3.182 turn2 turn2.pp.buehl.digital
 ssh_port: 2424
 filePathPrefix: inventory/prod_files
 letsencrypt_email: "{{ vault_letsencrypt_email }}"
 users:
-  - itrich
   - gabriel
   - h2invent
+  - jutt
 mysql_admin_password: "{{ vault_mysql_admin_password }}"
 prosody_user_focus_password: "{{ vault_prosody_user_focus_password }}"
 prosody_user_jvb_password: "{{ vault_prosody_user_jvb_password }}"
