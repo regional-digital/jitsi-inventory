@@ -1,0 +1,2 @@
+hostname: turn1
+fqdn: "{{ hostname }}{{ dnsdomain | default('') }}"
