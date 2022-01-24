@@ -38,7 +38,6 @@ influxdb_url: "https://stats.buehl.digital:8086"
 influxdb_jitsi_user: "{{ vault_influxdb_jitsi_user }}"
 influxdb_jitsi_password: "{{ vault_influxdb_jitsi_password }}"
 rsnapshot_user_public_key:  "{{ vault_rsnapshot_user_public_key }}"
-turnservername: turn.buehl.digital
 turnserverport: 443
 acme_sh_additional_options: --server letsencrypt
 prosodyDomains:
