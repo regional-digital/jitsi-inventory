@@ -1,4 +1,3 @@
-is_Cluster: True
 clusterNodes:
   - deb-signal01
   - deb-signal02
