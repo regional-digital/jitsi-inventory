@@ -1,5 +1,4 @@
 ---
-is_Cluster: True
 shardName: shardopenjitsi
 instances:
 #  - brusl-babbld.bruchsal.de
