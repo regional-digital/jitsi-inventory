@@ -1,0 +1,6 @@
+---
+bridgenumber: 7
+hostname: "jvb{{ bridgenumber }}"
+private_vlan_ip: "10.0.0.10{{ bridgenumber }}/24"
+internal_interface: "10.0.0.10{{ bridgenumber }}"
+fqdn: "{{ hostname }}{{ dnsdomain | default('') }}"
