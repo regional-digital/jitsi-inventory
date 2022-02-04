@@ -19,7 +19,7 @@ instances:
 
 instancevars:
   brusl-babbld.bruchsal.de:
-    usedWebVersion: 1.0.5415-1
+    usedWebVersion: 1.0.5818-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
     certbotDomainString: brusl-babbld.bruchsal.de -d bruslbabbld.bruchsal.de
@@ -66,10 +66,10 @@ instancevars:
     downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
 
   konferenz.bruchsal.digital:
-    usedWebVersion: 1.0.5415-1
+    usedWebVersion: 1.0.5818-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
-    APP_NAME: Brusl babbld!
+    APP_NAME: Bruchsaler Konferenzdienst
     BRAND_WATERMARK_LINK: 'https://www.bruchsal.de'
     DEFAULT_BACKGROUND: '#315191'
     DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
@@ -82,7 +82,7 @@ instancevars:
     DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
     ENABLE_DIAL_OUT: "false"
     GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
-    NATIVE_APP_NAME: 'Brusl babbld!'
+    NATIVE_APP_NAME: 'Bruchsaler Konferenzdienst'
     PROVIDER_NAME: 'Stadt Bruchsal'
     SUPPORT_URL: 'https://www.bruchsal.de/videokonferenz'
 
@@ -130,7 +130,7 @@ instancevars:
     downloadAppsUrl: 'https://stutensee.de/bildung-freizeit/milchldle-40'
 
   konferenztest.bruchsal.digital:
-    usedWebVersion: 1.0.5415-1
+    usedWebVersion: 1.0.5818-1
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
@@ -150,33 +150,6 @@ instancevars:
     NATIVE_APP_NAME: 'Brusl babbld!'
     PROVIDER_NAME: 'Stadt Bruchsal'
     SUPPORT_URL: 'https://www.bruchsal.de/videokonferenz'
-    interfaceConfig_foot: |
-      document.addEventListener('DOMContentLoaded', function(){
-          document.querySelector(".watermark").style.maxWidth = "480px";
-          document.querySelector(".watermark").style.maxHeight = "140px";
-      }, false);
-#    additionalConfig: |
-#      constraints: {
-#        video: {
-#          height: {
-#            ideal: 720,
-#            max: 720,
-#            min: 180
-#          },
-#          width: {
-#            ideal: 1280,
-#            max: 1280,
-#            min: 320
-#            }
-#          }
-#        },
-#        videoQuality: {
-#          maxBitratesVideo: {
-#            low: 200000,
-#            standard: 500000,
-#            high: 1500000
-#          },
-#        },
 
   rv-verbindet.ravensburg.de:
     usedWebVersion: 1.0.5415-1
