@@ -16,9 +16,13 @@ instances:
 
 instancevars:
   konferenzdienst.bruchsal.digital:
-    usedWebVersion: 1.0.5415-1
+    usedWebVersion: 1.0.5818-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
+    translation_title: "Brusl babbld!"
+    translation_headerTitle: "Brusl babbld!"
+    translation_headerSubtitle: "Sichere und hochqualitative Meetings"
+    translation_appDescription: "Auf geht's! Starten Sie eine Videokonferenz mit Ihrem Team oder besser noch: Laden Sie alle ein, die Sie kennen. Brusl babbld! ist eine vollständig verschlüsselte und 100 % quelloffene Videokonferenzlösung, die Sie immer und überall kostenlos verwenden können – ohne Registrierung."
     APP_NAME: Brusl babbld!
     BRAND_WATERMARK_LINK: 'https://www.bruchsal.de'
     DEFAULT_BACKGROUND: '#315191'
@@ -35,35 +39,184 @@ instancevars:
     NATIVE_APP_NAME: 'Brusl babbld!'
     PROVIDER_NAME: 'Stadt Bruchsal'
     SUPPORT_URL: 'https://www.bruchsal.de/videokonferenz'
+    title_description: "Brusl babbld! ist eine Videokonferenzlösung der Stadtverwaltung Bruchsal, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung."
+
+
   konferenzdienst.readi.de:
-    usedWebVersion: 1.0.5415-1
+    usedWebVersion: 1.0.5818-1
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
+    translation_title: "1-2-3 re@di"
+    translation_headerTitle: "1-2-3 re@di"
+    translation_headerSubtitle: "Auf geht's! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. 1-2-3 re@di ist eine gemeinsame Videokonferenzlösung der Städte Baden-Baden, Bretten, Bruchsal, Bühl, Ettlingen, Rastatt und Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
+    translation_appDescription: "Auf geht's! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. 1-2-3 re@di ist eine gemeinsame Videokonferenzlösung der Städte Baden-Baden, Bretten, Bruchsal, Bühl, Ettlingen, Rastatt und Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
+    APP_NAME: "1-2-3 re@di"
+    BRAND_WATERMARK_LINK: 'https://www.readi.de'
+    DEFAULT_BACKGROUND: '#474747'
+    DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
+    DEFAULT_LOGO_URL: 'images/watermark.png'
+    DEFAULT_REMOTE_DISPLAY_NAME: 'Gast'
+    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/watermark.png'
+    DISPLAY_WELCOME_PAGE_ADDITIONAL_CARD: "true"
+    JITSI_WATERMARK_LINK: 'https://www.readi.de'
+    DISPLAY_WELCOME_PAGE_CONTENT: "true"
+    DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
+    ENABLE_DIAL_OUT: "false"
+    GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
+    NATIVE_APP_NAME: '1-2-3 re@di'
+    PROVIDER_NAME: 'Stadt Bühl'
+    SUPPORT_URL: 'https://www.buehl.de/digitalisierung/palim-palim'
+    title_description: "1-2-3 re@di ist eine gemeinsame Videokonferenzlösung der Städte Baden-Baden, Bretten, Bruchsal, Bühl, Ettlingen, Rastatt und Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
+
+
   geplantekonferenz.buehl.digital:
-    usedWebVersion: 1.0.5415-1
+    usedWebVersion: 1.0.5818-1
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
+    translation_title: "Palim! Palim!"
+    translation_headerTitle: "Palim! Palim!"
+    translation_headerSubtitle: "Auf geht's! Beginnen Sie eine Videokonferenz mit Ihrem Verein, Sprach- oder Musikschulkurs. Oder besser noch, laden Sie alle ein, die Sie kennen. Palim! Palim! ist eine Videokonferenzlösung der Stadt Bühl, die Sie den ganzen Tag kostenlos verwenden können — ohne Registrierung."
+    translation_appDescription: "Auf geht's! Beginnen Sie eine Videokonferenz mit Ihrem Verein, Sprach- oder Musikschulkurs. Oder besser noch, laden Sie alle ein, die Sie kennen. Palim! Palim! ist eine Videokonferenzlösung der Stadt Bühl, die Sie den ganzen Tag kostenlos verwenden können — ohne Registrierung."
+    APP_NAME: "Palim! Palim!"
+    BRAND_WATERMARK_LINK: 'https://www.buehl.de'
+    DEFAULT_BACKGROUND: '#474747'
+    DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
+    DEFAULT_LOGO_URL: 'images/watermark.png'
+    DEFAULT_REMOTE_DISPLAY_NAME: 'Gast'
+    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/watermark.png'
+    DISPLAY_WELCOME_PAGE_ADDITIONAL_CARD: "true"
+    JITSI_WATERMARK_LINK: 'https://www.buehl.de'
+    DISPLAY_WELCOME_PAGE_CONTENT: "true"
+    DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
+    ENABLE_DIAL_OUT: "false"
+    GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
+    NATIVE_APP_NAME: 'Palim! Palim!'
+    PROVIDER_NAME: 'Stadt Bühl'
+    SUPPORT_URL: 'https://www.buehl.de/digitalisierung/palim-palim'
+    title_description: "Palim! Palim! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Bühl, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung."
+
+
   geplante-videokonferenz.rastatt.de:
-    usedWebVersion: 1.0.5415-1
+    usedWebVersion: 1.0.5818-1
     userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
     downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
+    translation_title: Rastatt schnatzt!
+    translation_headerTitle: Rastatt schnatzt!
+    translation_headerSubtitle: "Gleich geht’s los! Starten Sie eine Videokonferenz mit Ihrer Familie, Ihren Freundinnen und Freunden oder Ihren Kumpels im Verein. Mit Rastatt schnatzt! bietet die Stadt Rastatt ihren Bürgerinnen und Bürgern diese vollständig verschlüsselte Videokonferenzplattform an. Kostenlos, ohne Registrierung und zeitliche Einschränkung."
+    translation_appDescription: "Auf geht's! Starten Sie eine Videokonferenz mit Ihrer Familie, Verein, Sprach- oder Musikschulkurs. Oder besser noch: Laden Sie alle ein, die Sie kennen. Rastatt schnatzt! ist eine vollständig verschlüsselte und 100 % quelloffene Videokonferenzlösung der Stadtverwaltung Bruchsal, die Sie immer und überall kostenlos verwenden können – ohne Registrierung."
+    APP_NAME: Rastatt schnatzt!
+    BRAND_WATERMARK_LINK: 'https://www.rastatt.de'
+    DEFAULT_BACKGROUND: '#474747'
+    DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
+    DEFAULT_LOGO_URL: 'images/watermark-white.png'
+    DEFAULT_REMOTE_DISPLAY_NAME: 'Gast'
+    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/watermark-color.png'
+    DISPLAY_WELCOME_PAGE_ADDITIONAL_CARD: "false"
+    JITSI_WATERMARK_LINK: 'https://www.rastatt.de'
+    DISPLAY_WELCOME_PAGE_CONTENT: "true"
+    DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
+    ENABLE_DIAL_OUT: "false"
+    GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
+    NATIVE_APP_NAME: 'Rastatt schnatzt!'
+    PROVIDER_NAME: 'Stadt Rastatt'
+    SUPPORT_URL: 'https://www.rastatt.de/index.php?id=7119'
+    title_description: "Rastatt schnatzt! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Rastatt, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
+    interfaceConfig_foot: |
+      document.addEventListener('DOMContentLoaded', function(){
+          document.querySelector(".watermark").style.maxWidth = "480px";
+          document.querySelector(".watermark").style.maxHeight = "140px";
+      }, false);
+
   admin.konferenz.ettlingen.digital:
-    usedWebVersion: 1.0.5415-1
+    usedWebVersion: 1.0.5818-1
     userDocumentationURL: 'https://www.ettlingen.de/2827809/'
     downloadAppsUrl: 'https://www.ettlingen.de/2827809/'
+    translation_title: "@lingen verbindet"
+    translation_headerTitle: "@lingen verbindet"
+    translation_headerSubtitle: "Nutzen Sie die kostenlose Plattform um digital über Videokonferenzen in Kontakt zu bleiben. Verbinden Sie sich digital mit Freunden, Familie oder Bekannten über das Videokonferenzsystem „@lingen verbindet“, welches von der Stadt Ettlingen kostenlos zur Verfügung gestellt wird und eine sichere Verbindung gewährleistet. Allen sicherheitstechnischen und datenschutzrechtlichen Anforderungen wird Rechnung getragen. Eine Registrierung ist nicht erforderlich."
+    translation_appDescription: "Nutzen Sie die kostenlose Plattform um digital über Videokonferenzen in Kontakt zu bleiben. Verbinden Sie sich digital mit Freunden, Familie oder Bekannten über das Videokonferenzsystem „@lingen verbindet“, welches von der Stadt Ettlingen kostenlos zur Verfügung gestellt wird und eine sichere Verbindung gewährleistet. Allen sicherheitstechnischen und datenschutzrechtlichen Anforderungen wird Rechnung getragen. Eine Registrierung ist nicht erforderlich."
+    APP_NAME: "@lingen verbindet"
+    BRAND_WATERMARK_LINK: 'https://www.ettlingen.digital'
+    DEFAULT_BACKGROUND: '#474747'
+    DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
+    DEFAULT_LOGO_URL: 'images/watermark.png'
+    DEFAULT_REMOTE_DISPLAY_NAME: 'Gast'
+    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/watermark.png'
+    DISPLAY_WELCOME_PAGE_ADDITIONAL_CARD: "false"
+    JITSI_WATERMARK_LINK: 'https://www.ettlingen.digital'
+    DISPLAY_WELCOME_PAGE_CONTENT: "true"
+    DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
+    ENABLE_DIAL_OUT: "false"
+    GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
+    NATIVE_APP_NAME: '@lingen verbindet'
+    PROVIDER_NAME: 'Stadt Bühl'
+    SUPPORT_URL: 'https://www.ettlingen.digital'
+    title_description: "Nutzen Sie die kostenlose Plattform um digital über Videokonferenzen in Kontakt zu bleiben. Verbinden Sie sich digital mit Freunden, Familie oder Bekannten über das Videokonferenzsystem „@lingen verbindet“, welches von der Stadt Ettlingen kostenlos zur Verfügung gestellt wird und eine sichere Verbindung gewährleistet."
+
+
   jitsiadmin.bretten.de:
-    usedWebVersion: 1.0.5415-1
+    usedWebVersion: 1.0.5818-1
     userDocumentationURL: 'https://www.bretten.de/peter-ruft-paul'
     downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
+    translation_title: "Peter ruft Paul"
+    translation_headerTitle: "Peter ruft Paul"
+    translation_headerSubtitle: "Herzlich willkommen bei Peter ruft Paul. Hier können Sie miteinander in Kontakt treten. In Anlehnung an unser historisches Stadtfest haben wir diese Plattform „Peter ruft Paul“ genannt.\n\nUnter dem nachfolgenden Link können Sie zu jeder Zeit ohne Registrierung eine sichere Videokonferenz mit Ihrer Familie, Ihrem Verein oder Schulklasse führen. Kostenfrei!\n\nDie beiden Gestalten kennen viele von Ihnen: es sind Philipp Melanchthon, der berühmte Sohn der Stadt Bretten und ein Hund, genauer ein Mops. Der Überlieferung nach hat er dazu beigetragen, die Belagerung der Stadt im Jahr 1504 zu beenden. Das Standhalten gegen die Belagerung wird noch heute mit dem Peter-und-Paul-Fest gefeiert. Der historische „Hundles-Brunnen“ mit dem Brettener Hundle gilt als Wahrzeichen der Stadt."
+    translation_appDescription: "Herzlich willkommen bei Peter ruft Paul. Hier können Sie miteinander in Kontakt treten. In Anlehnung an unser historisches Stadtfest haben wir diese Plattform „Peter ruft Paul“ genannt.\n\nUnter dem nachfolgenden Link können Sie zu jeder Zeit ohne Registrierung eine sichere Videokonferenz mit Ihrer Familie, Ihrem Verein oder Schulklasse führen. Kostenfrei!\n\nDie beiden Gestalten kennen viele von Ihnen: es sind Philipp Melanchthon, der berühmte Sohn der Stadt Bretten und ein Hund, genauer ein Mops. Der Überlieferung nach hat er dazu beigetragen, die Belagerung der Stadt im Jahr 1504 zu beenden. Das Standhalten gegen die Belagerung wird noch heute mit dem Peter-und-Paul-Fest gefeiert. Der historische „Hundles-Brunnen“ mit dem Brettener Hundle gilt als Wahrzeichen der Stadt."
+    APP_NAME: "Peter ruft Paul"
+    BRAND_WATERMARK_LINK: 'https://www.bretten.de'
+    DEFAULT_BACKGROUND: '#474747'
+    DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
+    DEFAULT_LOGO_URL: 'images/watermark.png'
+    DEFAULT_REMOTE_DISPLAY_NAME: 'Gast'
+    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/watermark.png'
+    DISPLAY_WELCOME_PAGE_ADDITIONAL_CARD: "false"
+    JITSI_WATERMARK_LINK: 'https://www.bretten.de'
+    DISPLAY_WELCOME_PAGE_CONTENT: "true"
+    DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
+    ENABLE_DIAL_OUT: "false"
+    GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
+    NATIVE_APP_NAME: 'Peter ruft Paul'
+    PROVIDER_NAME: 'Stadt Bretten'
+    SUPPORT_URL: 'https://www.bretten.de/peter-ruft-paul'
+    title_description: "Peter ruft Paul ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Bretten, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
+
+
   geplant.connect.offenburg.digital:
-    usedWebVersion: 1.0.5415-1
+    usedWebVersion: 1.0.5818-1
     userDocumentationURL: 'https://www.offenburg.de/connect'
     downloadAppsUrl: 'https://www.offenburg.de/connect'
     tokenAuthUrl: 'https://jitsi-admin.de/room/dashboard'
+    translation_title: "Connect"
+    translation_headerTitle: "Connect"
+    translation_headerSubtitle: "Auf geht's! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. Connect ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Offenburg, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
+    translation_appDescription: "Auf geht's! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. Connect ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Offenburg, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
+    APP_NAME: "Connect"
+    BRAND_WATERMARK_LINK: 'https://www.offenburg.de'
+    DEFAULT_BACKGROUND: '#f75767'
+    DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
+    DEFAULT_LOGO_URL: 'images/watermark.png'
+    DEFAULT_REMOTE_DISPLAY_NAME: 'Gast'
+    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/watermark.png'
+    DISPLAY_WELCOME_PAGE_ADDITIONAL_CARD: "false"
+    JITSI_WATERMARK_LINK: 'https://www.offenburg.de'
+    DISPLAY_WELCOME_PAGE_CONTENT: "true"
+    DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
+    ENABLE_DIAL_OUT: "false"
+    GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
+    NATIVE_APP_NAME: 'Connect'
+    PROVIDER_NAME: 'Stadt Offenburg'
+    SUPPORT_URL: 'https://www.offenburg.de/connect'
+    title_description: "Connect! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Offenburg, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
+
+
   securetest.bruchsal.digital:
-    usedWebVersion: 1.0.5415-1
+    usedWebVersion: 1.0.5818-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
+    translation_title: "Brusl babbld!"
+    translation_headerTitle: "Brusl babbld!"
+    translation_headerSubtitle: "Sichere und hochqualitative Meetings"
+    translation_appDescription: "Auf geht's! Starten Sie eine Videokonferenz mit Ihrem Team oder besser noch: Laden Sie alle ein, die Sie kennen. Brusl babbld! ist eine vollständig verschlüsselte und 100 % quelloffene Videokonferenzlösung, die Sie immer und überall kostenlos verwenden können – ohne Registrierung."
     APP_NAME: Brusl babbld!
     BRAND_WATERMARK_LINK: 'https://www.bruchsal.de'
     DEFAULT_BACKGROUND: '#315191'
@@ -85,3 +238,4 @@ instancevars:
           document.querySelector(".watermark").style.maxWidth = "480px";
           document.querySelector(".watermark").style.maxHeight = "140px";
       }, false);
+    title_description: "Brusl babbld! ist eine Videokonferenzlösung der Stadtverwaltung Bruchsal, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung."
