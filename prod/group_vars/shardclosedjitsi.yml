@@ -16,7 +16,7 @@ instances:
 
 instancevars:
   konferenzdienst.bruchsal.digital:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
     translation_title: "Brusl babbld!"
@@ -43,7 +43,7 @@ instancevars:
 
 
   konferenzdienst.readi.de:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
     translation_title: "1-2-3 re@di"

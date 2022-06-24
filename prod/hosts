@@ -2,8 +2,8 @@
 signal01
 signal02
 securesignal01
-jvb1
-jvb2
+#jvb1
+#jvb2
 jvb3
 jvb4
 jvb5
@@ -12,7 +12,7 @@ jvb7
 stats.buehl.digital
 cloud.readi.de
 turn1
-turn2
+#turn2
 
 [stats]
 stats.buehl.digital
@@ -21,15 +21,15 @@ stats.buehl.digital
 signal01
 signal02
 securesignal01
-jvb1
-jvb2
+#jvb1
+#jvb2
 jvb3
 jvb4
 jvb5
 jvb6
 jvb7
 turn1
-turn2
+#turn2
 
 [jitsisignal]
 signal01
@@ -44,8 +44,8 @@ signal02
 securesignal01
 
 [videobridge]
-jvb1
-jvb2
+#jvb1
+#jvb2
 jvb3
 jvb4
 jvb5
@@ -56,8 +56,8 @@ jvb7
 jvb3
 
 [telegraf]
-jvb1
-jvb2
+#jvb1
+#jvb2
 jvb3
 jvb4
 jvb5
@@ -75,8 +75,8 @@ sso.readi.de
 cloud.readi.de
 
 [nagios_agent]
-jvb1
-jvb2
+#jvb1
+#jvb2
 jvb3
 jvb4
 jvb5
@@ -90,23 +90,23 @@ sso.readi.de
 cloud.readi.de
 stats.buehl.digital
 turn1
-turn2
+#turn2
 
 [no-cron-apt]
 signal01
 signal02
 securesignal01
-jvb1
-jvb2
+#jvb1
+#jvb2
 jvb3
 jvb4
 jvb5
 jvb6
 jvb7
 turn1
-turn2
+#turn2
 cloud.readi.de
 
 [turnserver]
 turn1
-turn2
+#turn2
