@@ -40,7 +40,8 @@ instancevars:
     PROVIDER_NAME: 'Stadt Bruchsal'
     SUPPORT_URL: 'https://www.bruchsal.de/videokonferenz'
     title_description: "Brusl babbld! ist eine Videokonferenzlösung der Stadtverwaltung Bruchsal, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung."
-
+    dont_show_enter_room: true
+    
 
   konferenzdienst.readi.de:
     usedWebVersion: 1.0.6260-1
@@ -67,10 +68,11 @@ instancevars:
     PROVIDER_NAME: 'Stadt Bühl'
     SUPPORT_URL: 'https://www.buehl.de/digitalisierung/palim-palim'
     title_description: "1-2-3 re@di ist eine gemeinsame Videokonferenzlösung der Städte Baden-Baden, Bretten, Bruchsal, Bühl, Ettlingen, Rastatt und Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
+    dont_show_enter_room: true
 
 
   geplantekonferenz.buehl.digital:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
     translation_title: "Palim! Palim!"
@@ -94,10 +96,11 @@ instancevars:
     PROVIDER_NAME: 'Stadt Bühl'
     SUPPORT_URL: 'https://www.buehl.de/digitalisierung/palim-palim'
     title_description: "Palim! Palim! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Bühl, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung."
+    dont_show_enter_room: true
 
 
   geplante-videokonferenz.rastatt.de:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
     downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
     translation_title: Rastatt schnatzt!
@@ -126,9 +129,11 @@ instancevars:
           document.querySelector(".watermark").style.maxWidth = "480px";
           document.querySelector(".watermark").style.maxHeight = "140px";
       }, false);
+    dont_show_enter_room: true
+
 
   admin.konferenz.ettlingen.digital:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.ettlingen.de/2827809/'
     downloadAppsUrl: 'https://www.ettlingen.de/2827809/'
     translation_title: "@lingen verbindet"
@@ -152,16 +157,16 @@ instancevars:
     PROVIDER_NAME: 'Stadt Bühl'
     SUPPORT_URL: 'https://www.ettlingen.digital'
     title_description: "Nutzen Sie die kostenlose Plattform um digital über Videokonferenzen in Kontakt zu bleiben. Verbinden Sie sich digital mit Freunden, Familie oder Bekannten über das Videokonferenzsystem „@lingen verbindet“, welches von der Stadt Ettlingen kostenlos zur Verfügung gestellt wird und eine sichere Verbindung gewährleistet."
-
+    dont_show_enter_room: true
 
   jitsiadmin.bretten.de:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.bretten.de/peter-ruft-paul'
     downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
     translation_title: "Peter ruft Paul"
     translation_headerTitle: "Peter ruft Paul"
-    translation_headerSubtitle: "Herzlich willkommen bei Peter ruft Paul. Hier können Sie miteinander in Kontakt treten. In Anlehnung an unser historisches Stadtfest haben wir diese Plattform „Peter ruft Paul“ genannt.\n\nUnter dem nachfolgenden Link können Sie zu jeder Zeit ohne Registrierung eine sichere Videokonferenz mit Ihrer Familie, Ihrem Verein oder Schulklasse führen. Kostenfrei!\n\nDie beiden Gestalten kennen viele von Ihnen: es sind Philipp Melanchthon, der berühmte Sohn der Stadt Bretten und ein Hund, genauer ein Mops. Der Überlieferung nach hat er dazu beigetragen, die Belagerung der Stadt im Jahr 1504 zu beenden. Das Standhalten gegen die Belagerung wird noch heute mit dem Peter-und-Paul-Fest gefeiert. Der historische „Hundles-Brunnen“ mit dem Brettener Hundle gilt als Wahrzeichen der Stadt."
-    translation_appDescription: "Herzlich willkommen bei Peter ruft Paul. Hier können Sie miteinander in Kontakt treten. In Anlehnung an unser historisches Stadtfest haben wir diese Plattform „Peter ruft Paul“ genannt.\n\nUnter dem nachfolgenden Link können Sie zu jeder Zeit ohne Registrierung eine sichere Videokonferenz mit Ihrer Familie, Ihrem Verein oder Schulklasse führen. Kostenfrei!\n\nDie beiden Gestalten kennen viele von Ihnen: es sind Philipp Melanchthon, der berühmte Sohn der Stadt Bretten und ein Hund, genauer ein Mops. Der Überlieferung nach hat er dazu beigetragen, die Belagerung der Stadt im Jahr 1504 zu beenden. Das Standhalten gegen die Belagerung wird noch heute mit dem Peter-und-Paul-Fest gefeiert. Der historische „Hundles-Brunnen“ mit dem Brettener Hundle gilt als Wahrzeichen der Stadt."
+    translation_headerSubtitle: 'Herzlich willkommen bei Peter ruft Paul. Hier können Sie miteinander in Kontakt treten. In Anlehnung an unser historisches Stadtfest haben wir diese Plattform „Peter ruft Paul“ genannt. Unter dem nachfolgenden Link können Sie zu jeder Zeit ohne Registrierung eine sichere Videokonferenz mit Ihrer Familie, Ihrem Verein oder Schulklasse führen. Kostenfrei!\n\nDie beiden Gestalten kennen viele von Ihnen: es sind Philipp Melanchthon, der berühmte Sohn der Stadt Bretten und ein Hund, genauer ein Mops. Der Überlieferung nach hat er dazu beigetragen, die Belagerung der Stadt im Jahr 1504 zu beenden. Das Standhalten gegen die Belagerung wird noch heute mit dem Peter-und-Paul-Fest gefeiert.\n\nDer historische „Hundles-Brunnen“ mit dem Brettener Hundle gilt als Wahrzeichen der Stadt.'
+    translation_appDescription: 'Herzlich willkommen bei Peter ruft Paul. Hier können Sie miteinander in Kontakt treten. In Anlehnung an unser historisches Stadtfest haben wir diese Plattform „Peter ruft Paul“ genannt. Unter dem nachfolgenden Link können Sie zu jeder Zeit ohne Registrierung eine sichere Videokonferenz mit Ihrer Familie, Ihrem Verein oder Schulklasse führen. Kostenfrei!\n\nDie beiden Gestalten kennen viele von Ihnen: es sind Philipp Melanchthon, der berühmte Sohn der Stadt Bretten und ein Hund, genauer ein Mops. Der Überlieferung nach hat er dazu beigetragen, die Belagerung der Stadt im Jahr 1504 zu beenden. Das Standhalten gegen die Belagerung wird noch heute mit dem Peter-und-Paul-Fest gefeiert.\n\nDer historische „Hundles-Brunnen“ mit dem Brettener Hundle gilt als Wahrzeichen der Stadt.'
     APP_NAME: "Peter ruft Paul"
     BRAND_WATERMARK_LINK: 'https://www.bretten.de'
     DEFAULT_BACKGROUND: '#474747'
@@ -179,10 +184,10 @@ instancevars:
     PROVIDER_NAME: 'Stadt Bretten'
     SUPPORT_URL: 'https://www.bretten.de/peter-ruft-paul'
     title_description: "Peter ruft Paul ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Bretten, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
-
+    dont_show_enter_room: true
 
   geplant.connect.offenburg.digital:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.offenburg.de/connect'
     downloadAppsUrl: 'https://www.offenburg.de/connect'
     tokenAuthUrl: 'https://jitsi-admin.de/room/dashboard'
@@ -207,10 +212,10 @@ instancevars:
     PROVIDER_NAME: 'Stadt Offenburg'
     SUPPORT_URL: 'https://www.offenburg.de/connect'
     title_description: "Connect! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Offenburg, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
-
+    dont_show_enter_room: true
 
   securetest.bruchsal.digital:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
     translation_title: "Brusl babbld!"
@@ -239,3 +244,31 @@ instancevars:
           document.querySelector(".watermark").style.maxHeight = "140px";
       }, false);
     title_description: "Brusl babbld! ist eine Videokonferenzlösung der Stadtverwaltung Bruchsal, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung."
+    dont_show_enter_room: true
+
+  konferenz-admin.stutensee.de:
+    usedWebVersion: 1.0.6260-1
+    userDocumentationURL: 'https://stutensee.de/bildung-freizeit/milchldle-40'
+    downloadAppsUrl: 'https://stutensee.de/bildung-freizeit/milchldle-40'
+    translation_title: "Milchl@dle 4.0"
+    translation_headerTitle: "Milchl@dle 4.0"
+    translation_headerSubtitle: "Auf geht's! Beginne eine Videokonferenz mit deiner Familie, deinen Freunden und Bekannten, deiner Schulklasse oder deinem Verein. Oder besser noch, lade alle ein, die du kennst. Milchl@dle 4.0 ist eine Videokonferenzlösung der Stadtverwaltung Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
+    translation_appDescription: "Auf geht's! Beginne eine Videokonferenz mit deiner Familie, deinen Freunden und Bekannten, deiner Schulklasse oder deinem Verein. Oder besser noch, lade alle ein, die du kennst. Milchl@dle 4.0 ist eine Videokonferenzlösung der Stadtverwaltung Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
+    APP_NAME: "Milchl@dle 4.0"
+    BRAND_WATERMARK_LINK: 'https://www.stutensee.de'
+    DEFAULT_BACKGROUND: '#474747'
+    DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
+    DEFAULT_LOGO_URL: 'images/watermark.png'
+    DEFAULT_REMOTE_DISPLAY_NAME: 'Gast'
+    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/watermark.png'
+    DISPLAY_WELCOME_PAGE_ADDITIONAL_CARD: "false"
+    JITSI_WATERMARK_LINK: 'https://www.stutensee.de'
+    DISPLAY_WELCOME_PAGE_CONTENT: "true"
+    DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
+    ENABLE_DIAL_OUT: "false"
+    GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
+    NATIVE_APP_NAME: 'Milchl@dle 4.0'
+    PROVIDER_NAME: 'Stadt Stutensee'
+    SUPPORT_URL: 'https://www.stutensee.de/bildung-freizeit/milchldle-40/'
+    title_description: "Milchl@dle 4.0 ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Stutensee, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
+    dont_show_enter_room: true

@@ -19,7 +19,7 @@ instances:
 
 instancevars:
   brusl-babbld.bruchsal.de:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
     certbotDomainString: brusl-babbld.bruchsal.de -d bruslbabbld.bruchsal.de
@@ -49,7 +49,7 @@ instancevars:
 
 
   connect.offenburg.digital:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.offenburg.de/connect'
     downloadAppsUrl: 'https://www.offenburg.de/connect'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07811/2555621"]},"numbersEnabled":true}'
@@ -77,7 +77,7 @@ instancevars:
 
 
   konferenz.blaustein.works:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.blaustein.de/de/buerger-service/blausteiner-globalofon/was-ist-das-blausteiner-globalofon/'
     downloadAppsUrl: 'https://www.blaustein.de/de/buerger-service/blausteiner-globalofon/was-ist-das-blausteiner-globalofon/'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07304/9589531"]},"numbersEnabled":true}'
@@ -105,7 +105,7 @@ instancevars:
 
 
   konferenz.bietigheim.de:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.bietigheim.de/web/gemeinde_bietje_schwaezzt_im_netz.html'
     downloadAppsUrl: 'https://www.bietigheim.de/web/gemeinde_bietje_schwaezzt_im_netz.html'
     translation_title: "Bietje #schwäzzt im Netz"
@@ -132,13 +132,13 @@ instancevars:
 
 
   konferenz.bretten.de:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.bretten.de/peter-ruft-paul'
     downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
     translation_title: "Peter ruft Paul"
     translation_headerTitle: "Peter ruft Paul"
-    translation_headerSubtitle: "Herzlich willkommen bei Peter ruft Paul. Hier können Sie miteinander in Kontakt treten. In Anlehnung an unser historisches Stadtfest haben wir diese Plattform „Peter ruft Paul“ genannt. Unter dem nachfolgenden Link können Sie zu jeder Zeit ohne Registrierung eine sichere Videokonferenz mit Ihrer Familie, Ihrem Verein oder Schulklasse führen. Kostenfrei! Die beiden Gestalten kennen viele von Ihnen: es sind Philipp Melanchthon, der berühmte Sohn der Stadt Bretten und ein Hund, genauer ein Mops. Der Überlieferung nach hat er dazu beigetragen, die Belagerung der Stadt im Jahr 1504 zu beenden. Das Standhalten gegen die Belagerung wird noch heute mit dem Peter-und-Paul-Fest gefeiert. Der historische „Hundles-Brunnen“ mit dem Brettener Hundle gilt als Wahrzeichen der Stadt."
-    translation_appDescription: "Herzlich willkommen bei Peter ruft Paul. Hier können Sie miteinander in Kontakt treten. In Anlehnung an unser historisches Stadtfest haben wir diese Plattform „Peter ruft Paul“ genannt. Unter dem nachfolgenden Link können Sie zu jeder Zeit ohne Registrierung eine sichere Videokonferenz mit Ihrer Familie, Ihrem Verein oder Schulklasse führen. Kostenfrei! Die beiden Gestalten kennen viele von Ihnen: es sind Philipp Melanchthon, der berühmte Sohn der Stadt Bretten und ein Hund, genauer ein Mops. Der Überlieferung nach hat er dazu beigetragen, die Belagerung der Stadt im Jahr 1504 zu beenden. Das Standhalten gegen die Belagerung wird noch heute mit dem Peter-und-Paul-Fest gefeiert. Der historische „Hundles-Brunnen“ mit dem Brettener Hundle gilt als Wahrzeichen der Stadt."
+    translation_headerSubtitle: 'Herzlich willkommen bei Peter ruft Paul. Hier können Sie miteinander in Kontakt treten. In Anlehnung an unser historisches Stadtfest haben wir diese Plattform „Peter ruft Paul“ genannt. Unter dem nachfolgenden Link können Sie zu jeder Zeit ohne Registrierung eine sichere Videokonferenz mit Ihrer Familie, Ihrem Verein oder Schulklasse führen. Kostenfrei!\n\nDie beiden Gestalten kennen viele von Ihnen: es sind Philipp Melanchthon, der berühmte Sohn der Stadt Bretten und ein Hund, genauer ein Mops. Der Überlieferung nach hat er dazu beigetragen, die Belagerung der Stadt im Jahr 1504 zu beenden. Das Standhalten gegen die Belagerung wird noch heute mit dem Peter-und-Paul-Fest gefeiert.\n\nDer historische „Hundles-Brunnen“ mit dem Brettener Hundle gilt als Wahrzeichen der Stadt.'
+    translation_appDescription: 'Herzlich willkommen bei Peter ruft Paul. Hier können Sie miteinander in Kontakt treten. In Anlehnung an unser historisches Stadtfest haben wir diese Plattform „Peter ruft Paul“ genannt. Unter dem nachfolgenden Link können Sie zu jeder Zeit ohne Registrierung eine sichere Videokonferenz mit Ihrer Familie, Ihrem Verein oder Schulklasse führen. Kostenfrei!\n\nDie beiden Gestalten kennen viele von Ihnen: es sind Philipp Melanchthon, der berühmte Sohn der Stadt Bretten und ein Hund, genauer ein Mops. Der Überlieferung nach hat er dazu beigetragen, die Belagerung der Stadt im Jahr 1504 zu beenden. Das Standhalten gegen die Belagerung wird noch heute mit dem Peter-und-Paul-Fest gefeiert.\n\nDer historische „Hundles-Brunnen“ mit dem Brettener Hundle gilt als Wahrzeichen der Stadt.'
     APP_NAME: "Peter ruft Paul"
     BRAND_WATERMARK_LINK: 'https://www.bretten.de'
     DEFAULT_BACKGROUND: '#474747'
@@ -159,7 +159,7 @@ instancevars:
 
 
   konferenz.bruchsal.digital:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
     translation_title: "Brusl babbld!"
@@ -186,7 +186,7 @@ instancevars:
 
 
   konferenz.buehl.digital:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
     certbotDomainString: konferenz.buehl.digital -d frontend.pp.buehl.digital
@@ -224,7 +224,7 @@ instancevars:
 
 
   konferenz.ettlingen.digital:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.ettlingen.de/2827809/'
     downloadAppsUrl: 'https://www.ettlingen.de/2827809/'
     translation_title: "@lingen verbindet"
@@ -251,7 +251,7 @@ instancevars:
 
 
   konferenz.readi.de:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
@@ -286,7 +286,7 @@ instancevars:
 
 
   konferenz.schkeuditz.de:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.schkeuditz.de/portal/seiten/Seite-900000181-27780.html'
     downloadAppsUrl: 'https://www.schkeuditz.de/portal/seiten/Seite-900000181-27780.html'
     translation_title: Na gugge ma!
@@ -313,7 +313,7 @@ instancevars:
 
 
   konferenz.stutensee.de:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://stutensee.de/bildung-freizeit/milchldle-40'
     downloadAppsUrl: 'https://stutensee.de/bildung-freizeit/milchldle-40'
     translation_title: "Milchl@dle 4.0"
@@ -340,7 +340,7 @@ instancevars:
 
 
   konferenztest.bruchsal.digital:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
@@ -368,7 +368,7 @@ instancevars:
 
 
   rv-verbindet.ravensburg.de:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.ravensburg.de/rv/gesellschaft-soziales/rv-verbindet.php'
     downloadAppsUrl: 'https://www.ravensburg.de/rv/gesellschaft-soziales/rv-verbindet.php'
     translation_title: rv-verbindet
@@ -395,7 +395,7 @@ instancevars:
 
 
   treff.neuweiler.de:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.neuweiler.de/de/Aktuelles/Treffpunkt-Neuweiler'
     downloadAppsUrl: 'https://www.neuweiler.de/de/Aktuelles/Treffpunkt-Neuweiler'
     translation_title: Treffpunkt Neuweiler
@@ -422,7 +422,7 @@ instancevars:
 
 
   videokonferenz.rastatt.de:
-    usedWebVersion: 1.0.5818-1
+    usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
     downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07222/9316413"]},"numbersEnabled":true}'
