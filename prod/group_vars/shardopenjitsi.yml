@@ -13,9 +13,9 @@ instances:
   - konferenz.schkeuditz.de
   - konferenz.stutensee.de
   - konferenztest.bruchsal.digital
-  - rv-verbindet.ravensburg.de
   - treff.neuweiler.de
   - videokonferenz.rastatt.de
+  - face-tue-face.de 
 
 instancevars:
   brusl-babbld.bruchsal.de:
@@ -367,33 +367,6 @@ instancevars:
     title_description: "Brusl babbld! ist eine Videokonferenzlösung der Stadtverwaltung Bruchsal, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung."
 
 
-  rv-verbindet.ravensburg.de:
-    usedWebVersion: 1.0.6260-1
-    userDocumentationURL: 'https://www.ravensburg.de/rv/gesellschaft-soziales/rv-verbindet.php'
-    downloadAppsUrl: 'https://www.ravensburg.de/rv/gesellschaft-soziales/rv-verbindet.php'
-    translation_title: rv-verbindet
-    translation_headerTitle: rv-verbindet
-    translation_headerSubtitle: "Mit dieser kostenlosen Videoplattform können Sie digital in Kontakt bleiben mit Freunden, Bekannten, Ihrer Familie, Ihrem Verein oder Ihrer Freizeitgruppe.\n Viel Spaß!"
-    translation_appDescription: "Mit der kostenlosen Videoplattform rv-verbindet können Sie digital in Kontakt bleiben mit Freunden, Bekannten, Ihrer Familie, Ihrem Verein oder Ihrer Freizeitgruppe. \n\nViel Spaß!"
-    APP_NAME: rv-verbindet
-    BRAND_WATERMARK_LINK: 'https://www.ravensburg.de'
-    DEFAULT_BACKGROUND: '#474747'
-    DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
-    DEFAULT_LOGO_URL: 'images/watermark-white.png'
-    DEFAULT_REMOTE_DISPLAY_NAME: 'Gast'
-    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/watermark-color.png'
-    DISPLAY_WELCOME_PAGE_ADDITIONAL_CARD: "false"
-    JITSI_WATERMARK_LINK: 'https://www.ravensburg.de'
-    DISPLAY_WELCOME_PAGE_CONTENT: "true"
-    DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
-    ENABLE_DIAL_OUT: "false"
-    GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
-    NATIVE_APP_NAME: 'rv-verbindet'
-    PROVIDER_NAME: 'Stadt Ravensburg'
-    SUPPORT_URL: 'https://www.ravensburg.de/rv/gesellschaft-soziales/rv-verbindet.php'
-    title_description: "rv-verbindet ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Ravensburg, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
-
-
   treff.neuweiler.de:
     usedWebVersion: 1.0.6260-1
     userDocumentationURL: 'https://www.neuweiler.de/de/Aktuelles/Treffpunkt-Neuweiler'
@@ -447,3 +420,31 @@ instancevars:
     PROVIDER_NAME: 'Stadt Rastatt'
     SUPPORT_URL: 'https://www.rastatt.de/index.php?id=7119'
     title_description: "Rastatt schnatzt! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Rastatt, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
+
+
+  face-tue-face.de:
+    usedWebVersion: 1.0.6260-1
+    userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
+    downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
+    translation_title: Face-Tü-Face
+    translation_headerTitle: Face-Tü-Face
+    translation_headerSubtitle: 'Los geht‘s! Starten Sie eine Videokonferenz mit Ihrer Familie, Ihrem Verein, oder ihren Freunden. Die Universitätsstadt Tübingen stellt dieses datenschutzkonforme Videokonferenzsystem für Sie zur Verfügung.'
+    translation_appDescription: 'Los geht‘s! Starten Sie eine Videokonferenz mit Ihrer Familie, Ihrem Verein, oder ihren Freunden. Die Universitätsstadt Tübingen stellt dieses datenschutzkonforme Videokonferenzsystem für Sie zur Verfügung.'
+    APP_NAME: Face-Tü-Face
+    BRAND_WATERMARK_LINK: 'https://www.tuebingen.de'
+    DEFAULT_BACKGROUND: '#e2e2e2'
+    DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
+    DEFAULT_LOGO_URL: 'images/logo.svg'
+    DEFAULT_REMOTE_DISPLAY_NAME: 'Gast'
+    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/logo.svg'
+    DISPLAY_WELCOME_PAGE_ADDITIONAL_CARD: "false"
+    JITSI_WATERMARK_LINK: 'https://www.tuebingen.de'
+    DISPLAY_WELCOME_PAGE_CONTENT: "true"
+    DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
+    ENABLE_DIAL_OUT: "false"
+    GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
+    NATIVE_APP_NAME: Face-Tü-Face
+    PROVIDER_NAME: 'Stadt Tübingen'
+    SUPPORT_URL: 'https://www.buehl.de/digitalisierung/palim-palim'
+    title_description: 'Los geht‘s! Starten Sie eine Videokonferenz mit Ihrer Familie, Ihrem Verein, oder ihren Freunden. Die Universitätsstadt Tübingen stellt dieses datenschutzkonforme Videokonferenzsystem für Sie zur Verfügung.'
+
