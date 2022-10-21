@@ -19,18 +19,18 @@ instances:
 
 instancevars:
   brusl-babbld.bruchsal.de:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
     certbotDomainString: brusl-babbld.bruchsal.de -d bruslbabbld.bruchsal.de
     domainNames:
       - brusl-babbld.bruchsal.de
       - bruslbabbld.bruchsal.de
-    translation_title: "Brusl babbld!"
-    translation_headerTitle: "Brusl babbld!"
-    translation_headerSubtitle: "Sichere und hochqualitative Meetings"
-    translation_appDescription: "Auf geht's! Starten Sie eine Videokonferenz mit Ihrem Team oder besser noch: Laden Sie alle ein, die Sie kennen. Brusl babbld! ist eine vollständig verschlüsselte und 100 % quelloffene Videokonferenzlösung, die Sie immer und überall kostenlos verwenden können – ohne Registrierung."
-    APP_NAME: Brusl babbld!
+    translation_title: 'Brusl babbld!'
+    translation_headerTitle: 'Brusl babbld!'
+    translation_headerSubtitle: 'Sichere und hochqualitative Meetings'
+    translation_appDescription: 'Auf geht‘s! Starten Sie eine Videokonferenz mit Ihrem Team oder besser noch: Laden Sie alle ein, die Sie kennen. Brusl babbld! ist eine vollständig verschlüsselte und 100 % quelloffene Videokonferenzlösung, die Sie immer und überall kostenlos verwenden können – ohne Registrierung.'
+    APP_NAME: 'Brusl babbld!'
     BRAND_WATERMARK_LINK: 'https://www.bruchsal.de'
     DEFAULT_BACKGROUND: '#315191'
     DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
@@ -49,14 +49,14 @@ instancevars:
 
 
   connect.offenburg.digital:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1
     userDocumentationURL: 'https://www.offenburg.de/connect'
     downloadAppsUrl: 'https://www.offenburg.de/connect'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07811/2555621"]},"numbersEnabled":true}'
-    translation_title: "Connect!"
-    translation_headerTitle: "Connect!"
-    translation_headerSubtitle: "Auf geht's! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. Connect ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Offenburg, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
-    translation_appDescription: "Auf geht's! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. Connect ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Offenburg, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
+    translation_title: 'Connect!'
+    translation_headerTitle: 'Connect!'
+    translation_headerSubtitle: 'Auf geht‘s! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. Connect ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Offenburg, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung.'
+    translation_appDescription: 'Auf geht‘s! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. Connect ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Offenburg, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung.'
     APP_NAME: "Connect!"
     BRAND_WATERMARK_LINK: 'https://www.offenburg.de'
     DEFAULT_BACKGROUND: '#f75767'
@@ -73,18 +73,18 @@ instancevars:
     NATIVE_APP_NAME: 'Connect!'
     PROVIDER_NAME: 'Stadt Offenburg'
     SUPPORT_URL: 'https://www.offenburg.de/connect'
-    title_description: "Connect! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Offenburg, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
+    title_description: 'Connect! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Offenburg, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung.'
 
 
   konferenz.blaustein.works:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1    
     userDocumentationURL: 'https://www.blaustein.de/de/buerger-service/blausteiner-globalofon/was-ist-das-blausteiner-globalofon/'
     downloadAppsUrl: 'https://www.blaustein.de/de/buerger-service/blausteiner-globalofon/was-ist-das-blausteiner-globalofon/'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07304/9589531"]},"numbersEnabled":true}'
     translation_title: "Blausteiner Globalofon"
     translation_headerTitle: "Blausteiner Globalofon"
-    translation_headerSubtitle: "Und los! Mit dem Blausteiner Globalofon ist der Video-Austausch hier vor Ort und mit der ganzen Welt total leicht. Einfach ein Meeting mit einem neuen Namen starten und den Link an alle schicken, die mit dabei sein sollen. Das Blausteiner Globalofon ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Blaustein, die kostenlos und ohne Registrierung verwendet werden kann."
-    translation_appDescription: "Und los! Mit dem Blausteiner Globalofon ist der Video-Austausch hier vor Ort und mit der ganzen Welt total leicht. Einfach ein Meeting mit einem neuen Namen starten und den Link an alle schicken, die mit dabei sein sollen. Das Blausteiner Globalofon ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Blaustein, die kostenlos und ohne Registrierung verwendet werden kann."
+    translation_headerSubtitle: 'Und los! Mit dem Blausteiner Globalofon ist der Video-Austausch hier vor Ort und mit der ganzen Welt total leicht. Einfach ein Meeting mit einem neuen Namen starten und den Link an alle schicken, die mit dabei sein sollen. Das Blausteiner Globalofon ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Blaustein, die kostenlos und ohne Registrierung verwendet werden kann.'
+    translation_appDescription: 'Und los! Mit dem Blausteiner Globalofon ist der Video-Austausch hier vor Ort und mit der ganzen Welt total leicht. Einfach ein Meeting mit einem neuen Namen starten und den Link an alle schicken, die mit dabei sein sollen. Das Blausteiner Globalofon ist eine vollständig verschlüsselte Videokonferenzlösung der Stadt Blaustein, die kostenlos und ohne Registrierung verwendet werden kann.'
     APP_NAME: "Blausteiner Globalofon"
     BRAND_WATERMARK_LINK: 'https://www.blaustein.de'
     DEFAULT_BACKGROUND: '#474747'
@@ -101,17 +101,17 @@ instancevars:
     NATIVE_APP_NAME: 'Blausteiner Globalofon'
     PROVIDER_NAME: 'Stadt Bühl'
     SUPPORT_URL: 'https://www.blaustein.de/de/buerger-service/blausteiner-globalofon/'
-    title_description: "Das Blausteiner Globalofon ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Blaustein, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
+    title_description: 'Das Blausteiner Globalofon ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Blaustein, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung.'
 
 
   konferenz.bietigheim.de:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1    
     userDocumentationURL: 'https://www.bietigheim.de/web/gemeinde_bietje_schwaezzt_im_netz.html'
     downloadAppsUrl: 'https://www.bietigheim.de/web/gemeinde_bietje_schwaezzt_im_netz.html'
-    translation_title: "Bietje #schwäzzt im Netz"
+    translation_title: 'Bietje #schwäzzt im Netz'
     translation_headerTitle: " "
     translation_headerSubtitle: " "
-    translation_appDescription: "Auf geht's! Beginnen Sie eine Videokonferenz mit Ihrem Verein, Sprach- oder Musikschulkurs. Oder besser noch, laden Sie alle ein, die Sie kennen. Bietje #schwäzzt im Netz ist eine Videokonferenzlösung der Stadt Bühl, die Sie den ganzen Tag kostenlos verwenden können — ohne Registrierung."
+    translation_appDescription: 'Auf geht‘s! Beginnen Sie eine Videokonferenz mit Ihrem Verein, Sprach- oder Musikschulkurs. Oder besser noch, laden Sie alle ein, die Sie kennen. Bietje #schwäzzt im Netz ist eine Videokonferenzlösung der Stadt Bühl, die Sie den ganzen Tag kostenlos verwenden können — ohne Registrierung.'
     APP_NAME: "Bietje #schwäzzt im Netz"
     BRAND_WATERMARK_LINK: 'https://www.bietigheim.de'
     DEFAULT_BACKGROUND: '#474747'
@@ -128,18 +128,18 @@ instancevars:
     NATIVE_APP_NAME: 'Bietje #schwäzzt im Netz'
     PROVIDER_NAME: 'Stadt Bühl'
     SUPPORT_URL: 'https://www.buehl.de/digitalisierung/palim-palim'
-    title_description: "Bietje #schwäzzt im Netz ist eine vollständig verschlüsselte Videokonferenzlösung der Gemeinde Bietigheim, die du den ganzen Tag kostenlos verwenden kannst  ohne Registrierung."
+    title_description: 'Bietje #schwäzzt im Netz ist eine vollständig verschlüsselte Videokonferenzlösung der Gemeinde Bietigheim, die du den ganzen Tag kostenlos verwenden kannst  ohne Registrierung.'
 
 
   konferenz.bretten.de:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1    
     userDocumentationURL: 'https://www.bretten.de/peter-ruft-paul'
     downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
-    translation_title: "Peter ruft Paul"
-    translation_headerTitle: "Peter ruft Paul"
+    translation_title: 'Peter ruft Paul'
+    translation_headerTitle: 'Peter ruft Paul'
     translation_headerSubtitle: 'Herzlich willkommen bei Peter ruft Paul. Hier können Sie miteinander in Kontakt treten. In Anlehnung an unser historisches Stadtfest haben wir diese Plattform „Peter ruft Paul“ genannt. Unter dem nachfolgenden Link können Sie zu jeder Zeit ohne Registrierung eine sichere Videokonferenz mit Ihrer Familie, Ihrem Verein oder Schulklasse führen. Kostenfrei!\n\nDie beiden Gestalten kennen viele von Ihnen: es sind Philipp Melanchthon, der berühmte Sohn der Stadt Bretten und ein Hund, genauer ein Mops. Der Überlieferung nach hat er dazu beigetragen, die Belagerung der Stadt im Jahr 1504 zu beenden. Das Standhalten gegen die Belagerung wird noch heute mit dem Peter-und-Paul-Fest gefeiert.\n\nDer historische „Hundles-Brunnen“ mit dem Brettener Hundle gilt als Wahrzeichen der Stadt.'
     translation_appDescription: 'Herzlich willkommen bei Peter ruft Paul. Hier können Sie miteinander in Kontakt treten. In Anlehnung an unser historisches Stadtfest haben wir diese Plattform „Peter ruft Paul“ genannt. Unter dem nachfolgenden Link können Sie zu jeder Zeit ohne Registrierung eine sichere Videokonferenz mit Ihrer Familie, Ihrem Verein oder Schulklasse führen. Kostenfrei!\n\nDie beiden Gestalten kennen viele von Ihnen: es sind Philipp Melanchthon, der berühmte Sohn der Stadt Bretten und ein Hund, genauer ein Mops. Der Überlieferung nach hat er dazu beigetragen, die Belagerung der Stadt im Jahr 1504 zu beenden. Das Standhalten gegen die Belagerung wird noch heute mit dem Peter-und-Paul-Fest gefeiert.\n\nDer historische „Hundles-Brunnen“ mit dem Brettener Hundle gilt als Wahrzeichen der Stadt.'
-    APP_NAME: "Peter ruft Paul"
+    APP_NAME: 'Peter ruft Paul'
     BRAND_WATERMARK_LINK: 'https://www.bretten.de'
     DEFAULT_BACKGROUND: '#474747'
     DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
@@ -155,17 +155,17 @@ instancevars:
     NATIVE_APP_NAME: 'Peter ruft Paul'
     PROVIDER_NAME: 'Stadt Bretten'
     SUPPORT_URL: 'https://www.bretten.de/peter-ruft-paul'
-    title_description: "Peter ruft Paul ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Bretten, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
+    title_description: 'Peter ruft Paul ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Bretten, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung.'
 
 
   konferenz.bruchsal.digital:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1   
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
-    translation_title: "Brusl babbld!"
-    translation_headerTitle: "Brusl babbld!"
-    translation_headerSubtitle: "Sichere und hochqualitative Meetings"
-    translation_appDescription: "Auf geht's! Starten Sie eine Videokonferenz mit Ihrem Team oder besser noch: Laden Sie alle ein, die Sie kennen. Brusl babbld! ist eine vollständig verschlüsselte und 100 % quelloffene Videokonferenzlösung, die Sie immer und überall kostenlos verwenden können – ohne Registrierung."
+    translation_title: 'Brusl babbld!'
+    translation_headerTitle: 'Brusl babbld!'
+    translation_headerSubtitle: 'Sichere und hochqualitative Meetings'
+    translation_appDescription: 'Auf geht‘s! Starten Sie eine Videokonferenz mit Ihrem Team oder besser noch: Laden Sie alle ein, die Sie kennen. Brusl babbld! ist eine vollständig verschlüsselte und 100 % quelloffene Videokonferenzlösung, die Sie immer und überall kostenlos verwenden können – ohne Registrierung.'
     APP_NAME: Bruchsaler Konferenzdienst
     BRAND_WATERMARK_LINK: 'https://www.bruchsal.de'
     DEFAULT_BACKGROUND: '#315191'
@@ -182,11 +182,11 @@ instancevars:
     NATIVE_APP_NAME: 'Bruchsaler Konferenzdienst'
     PROVIDER_NAME: 'Stadt Bruchsal'
     SUPPORT_URL: 'https://www.bruchsal.de/videokonferenz'
-    title_description: "Brusl babbld! ist eine Videokonferenzlösung der Stadtverwaltung Bruchsal, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung."
+    title_description: 'Brusl babbld! ist eine Videokonferenzlösung der Stadtverwaltung Bruchsal, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung.'
 
 
   konferenz.buehl.digital:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1    
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
     certbotDomainString: konferenz.buehl.digital -d frontend.pp.buehl.digital
@@ -200,11 +200,11 @@ instancevars:
        'etherpad', 'sharedvideo', 'shareaudio', 'settings', 'raisehand',
        'videoquality', 'filmstrip', 'invite', 'feedback', 'stats', 'shortcuts',
        'tileview', 'select-background', 'download', 'help', 'mute-everyone', 'mute-video-everyone', 'security', 'participants-pane'
-    translation_title: "Palim! Palim!"
-    translation_headerTitle: "Palim! Palim!"
-    translation_headerSubtitle: "Auf geht's! Beginnen Sie eine Videokonferenz mit Ihrem Verein, Sprach- oder Musikschulkurs. Oder besser noch, laden Sie alle ein, die Sie kennen. Palim! Palim! ist eine Videokonferenzlösung der Stadt Bühl, die Sie den ganzen Tag kostenlos verwenden können — ohne Registrierung."
-    translation_appDescription: "Auf geht's! Beginnen Sie eine Videokonferenz mit Ihrem Verein, Sprach- oder Musikschulkurs. Oder besser noch, laden Sie alle ein, die Sie kennen. Palim! Palim! ist eine Videokonferenzlösung der Stadt Bühl, die Sie den ganzen Tag kostenlos verwenden können — ohne Registrierung."
-    APP_NAME: "Palim! Palim!"
+    translation_title: 'Palim! Palim!'
+    translation_headerTitle: 'Palim! Palim!'
+    translation_headerSubtitle: 'Auf geht‘s! Beginnen Sie eine Videokonferenz mit Ihrem Verein, Sprach- oder Musikschulkurs. Oder besser noch, laden Sie alle ein, die Sie kennen. Palim! Palim! ist eine Videokonferenzlösung der Stadt Bühl, die Sie den ganzen Tag kostenlos verwenden können — ohne Registrierung.'
+    translation_appDescription: 'Auf geht‘s! Beginnen Sie eine Videokonferenz mit Ihrem Verein, Sprach- oder Musikschulkurs. Oder besser noch, laden Sie alle ein, die Sie kennen. Palim! Palim! ist eine Videokonferenzlösung der Stadt Bühl, die Sie den ganzen Tag kostenlos verwenden können — ohne Registrierung.'
+    APP_NAME: 'Palim! Palim!'
     BRAND_WATERMARK_LINK: 'https://www.buehl.de'
     DEFAULT_BACKGROUND: '#474747'
     DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
@@ -220,18 +220,18 @@ instancevars:
     NATIVE_APP_NAME: 'Palim! Palim!'
     PROVIDER_NAME: 'Stadt Bühl'
     SUPPORT_URL: 'https://www.buehl.de/digitalisierung/palim-palim'
-    title_description: "Palim! Palim! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Bühl, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung."
+    title_description: 'Palim! Palim! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Bühl, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung.'
 
 
   konferenz.ettlingen.digital:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1    
     userDocumentationURL: 'https://www.ettlingen.de/2827809/'
     downloadAppsUrl: 'https://www.ettlingen.de/2827809/'
-    translation_title: "@lingen verbindet"
-    translation_headerTitle: "@lingen verbindet"
-    translation_headerSubtitle: "Nutzen Sie die kostenlose Plattform um digital über Videokonferenzen in Kontakt zu bleiben. Verbinden Sie sich digital mit Freunden, Familie oder Bekannten über das Videokonferenzsystem „@lingen verbindet“, welches von der Stadt Ettlingen kostenlos zur Verfügung gestellt wird und eine sichere Verbindung gewährleistet. Allen sicherheitstechnischen und datenschutzrechtlichen Anforderungen wird Rechnung getragen. Eine Registrierung ist nicht erforderlich."
-    translation_appDescription: "Nutzen Sie die kostenlose Plattform um digital über Videokonferenzen in Kontakt zu bleiben. Verbinden Sie sich digital mit Freunden, Familie oder Bekannten über das Videokonferenzsystem „@lingen verbindet“, welches von der Stadt Ettlingen kostenlos zur Verfügung gestellt wird und eine sichere Verbindung gewährleistet. Allen sicherheitstechnischen und datenschutzrechtlichen Anforderungen wird Rechnung getragen. Eine Registrierung ist nicht erforderlich."
-    APP_NAME: "@lingen verbindet"
+    translation_title: '@lingen verbindet'
+    translation_headerTitle: '@lingen verbindet'
+    translation_headerSubtitle: 'Nutzen Sie die kostenlose Plattform um digital über Videokonferenzen in Kontakt zu bleiben. Verbinden Sie sich digital mit Freunden, Familie oder Bekannten über das Videokonferenzsystem „@lingen verbindet“, welches von der Stadt Ettlingen kostenlos zur Verfügung gestellt wird und eine sichere Verbindung gewährleistet. Allen sicherheitstechnischen und datenschutzrechtlichen Anforderungen wird Rechnung getragen. Eine Registrierung ist nicht erforderlich.'
+    translation_appDescription: 'Nutzen Sie die kostenlose Plattform um digital über Videokonferenzen in Kontakt zu bleiben. Verbinden Sie sich digital mit Freunden, Familie oder Bekannten über das Videokonferenzsystem „@lingen verbindet“, welches von der Stadt Ettlingen kostenlos zur Verfügung gestellt wird und eine sichere Verbindung gewährleistet. Allen sicherheitstechnischen und datenschutzrechtlichen Anforderungen wird Rechnung getragen. Eine Registrierung ist nicht erforderlich.'
+    APP_NAME: '@lingen verbindet'
     BRAND_WATERMARK_LINK: 'https://www.ettlingen.digital'
     DEFAULT_BACKGROUND: '#474747'
     DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
@@ -247,11 +247,11 @@ instancevars:
     NATIVE_APP_NAME: '@lingen verbindet'
     PROVIDER_NAME: 'Stadt Bühl'
     SUPPORT_URL: 'https://www.ettlingen.digital'
-    title_description: "Nutzen Sie die kostenlose Plattform um digital über Videokonferenzen in Kontakt zu bleiben. Verbinden Sie sich digital mit Freunden, Familie oder Bekannten über das Videokonferenzsystem „@lingen verbindet“, welches von der Stadt Ettlingen kostenlos zur Verfügung gestellt wird und eine sichere Verbindung gewährleistet."
+    title_description: 'Nutzen Sie die kostenlose Plattform um digital über Videokonferenzen in Kontakt zu bleiben. Verbinden Sie sich digital mit Freunden, Familie oder Bekannten über das Videokonferenzsystem „@lingen verbindet“, welches von der Stadt Ettlingen kostenlos zur Verfügung gestellt wird und eine sichere Verbindung gewährleistet.'
 
 
   konferenz.readi.de:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1    
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
@@ -261,11 +261,11 @@ instancevars:
        'etherpad', 'sharedvideo', 'shareaudio', 'settings', 'raisehand',
        'videoquality', 'filmstrip', 'invite', 'feedback', 'stats', 'shortcuts',
        'tileview', 'select-background', 'download', 'help', 'mute-everyone', 'mute-video-everyone', 'security'
-    translation_title: "1-2-3 re@di"
-    translation_headerTitle: "1-2-3 re@di"
-    translation_headerSubtitle: "Auf geht's! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. 1-2-3 re@di ist eine gemeinsame Videokonferenzlösung der Städte Baden-Baden, Bretten, Bruchsal, Bühl, Ettlingen, Rastatt und Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
-    translation_appDescription: "Auf geht's! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. 1-2-3 re@di ist eine gemeinsame Videokonferenzlösung der Städte Baden-Baden, Bretten, Bruchsal, Bühl, Ettlingen, Rastatt und Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
-    APP_NAME: "1-2-3 re@di"
+    translation_title: '1-2-3 re@di'
+    translation_headerTitle: '1-2-3 re@di'
+    translation_headerSubtitle: 'Auf geht‘s! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. 1-2-3 re@di ist eine gemeinsame Videokonferenzlösung der Städte Baden-Baden, Bretten, Bruchsal, Bühl, Ettlingen, Rastatt und Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung.'
+    translation_appDescription: 'Auf geht‘s! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. 1-2-3 re@di ist eine gemeinsame Videokonferenzlösung der Städte Baden-Baden, Bretten, Bruchsal, Bühl, Ettlingen, Rastatt und Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung.'
+    APP_NAME: '1-2-3 re@di'
     BRAND_WATERMARK_LINK: 'https://www.readi.de'
     DEFAULT_BACKGROUND: '#474747'
     DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
@@ -281,19 +281,19 @@ instancevars:
     NATIVE_APP_NAME: '1-2-3 re@di'
     PROVIDER_NAME: 'Stadt Bühl'
     SUPPORT_URL: 'https://www.buehl.de/digitalisierung/palim-palim'
-    title_description: "1-2-3 re@di ist eine gemeinsame Videokonferenzlösung der Städte Baden-Baden, Bretten, Bruchsal, Bühl, Ettlingen, Rastatt und Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
+    title_description: '1-2-3 re@di ist eine gemeinsame Videokonferenzlösung der Städte Baden-Baden, Bretten, Bruchsal, Bühl, Ettlingen, Rastatt und Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung.'
 
 
 
   konferenz.schkeuditz.de:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1    
     userDocumentationURL: 'https://www.schkeuditz.de/portal/seiten/Seite-900000181-27780.html'
     downloadAppsUrl: 'https://www.schkeuditz.de/portal/seiten/Seite-900000181-27780.html'
-    translation_title: Na gugge ma!
-    translation_headerTitle: Na gugge ma!
-    translation_headerSubtitle: "Los geht's! Starte eine Videokonferenz mit Deiner Familie, Deinen Freunden und Bekannten oder mit Deinem Verein. Lade alle ein, die Du kennst! Mit Na gugge ma! bietet die Stadt Schkeuditz allen Bürgerinnen und Bürgern eine vollständig verschlüsselte Videokonferenzplattform – kostenlos, ohne Registrierung und Zeitlimit! Gib im Feld „Neues Meeting starten“ Deiner Videokonferenz einen künstlichen, ganz individuellen Raumnamen!"
-    translation_appDescription: "Los geht's! Starte eine Videokonferenz mit Deiner Familie, Deinen Freunden und Bekannten oder mit Deinem Verein. Lade alle ein, die Du kennst! Mit Na gugge ma! bietet die Stadt Schkeuditz allen Bürgerinnen und Bürgern eine vollständig verschlüsselte Videokonferenzplattform – kostenlos, ohne Registrierung und Zeitlimit! Gib im Feld „Neues Meeting starten“ Deiner Videokonferenz einen künstlichen, ganz individuellen Raumnamen!"
-    APP_NAME: "Na gugge ma!"
+    translation_title: 'Na gugge ma!'
+    translation_headerTitle: 'Na gugge ma!'
+    translation_headerSubtitle: 'Auf geht‘s! Starte eine Videokonferenz mit Deiner Familie, Deinen Freunden und Bekannten oder mit Deinem Verein. Lade alle ein, die Du kennst! Mit Na gugge ma! bietet die Stadt Schkeuditz allen Bürgerinnen und Bürgern eine vollständig verschlüsselte Videokonferenzplattform – kostenlos, ohne Registrierung und Zeitlimit! Gib im Feld „Neues Meeting starten“ Deiner Videokonferenz einen künstlichen, ganz individuellen Raumnamen!'
+    translation_appDescription: 'Auf geht‘s! Starte eine Videokonferenz mit Deiner Familie, Deinen Freunden und Bekannten oder mit Deinem Verein. Lade alle ein, die Du kennst! Mit Na gugge ma! bietet die Stadt Schkeuditz allen Bürgerinnen und Bürgern eine vollständig verschlüsselte Videokonferenzplattform – kostenlos, ohne Registrierung und Zeitlimit! Gib im Feld „Neues Meeting starten“ Deiner Videokonferenz einen künstlichen, ganz individuellen Raumnamen!'
+    APP_NAME: 'Na gugge ma!'
     BRAND_WATERMARK_LINK: 'https://www.schkeuditz.de'
     DEFAULT_BACKGROUND: '#474747'
     DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
@@ -306,21 +306,21 @@ instancevars:
     DISPLAY_WELCOME_PAGE_TOOLBAR_ADDITIONAL_CONTENT: "false"
     ENABLE_DIAL_OUT: "false"
     GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
-    NATIVE_APP_NAME: "Na gugge ma!"
+    NATIVE_APP_NAME: 'Na gugge ma!'
     PROVIDER_NAME: 'Stadt Bühl'
     SUPPORT_URL: 'https://www.schkeuditz.de/portal/seiten/Seite-900000181-27780.html'
-    title_description: "Na gugge ma! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Stutensee, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
+    title_description: 'Na gugge ma! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Stutensee, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung.'
 
 
   konferenz.stutensee.de:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1    
     userDocumentationURL: 'https://stutensee.de/bildung-freizeit/milchldle-40'
     downloadAppsUrl: 'https://stutensee.de/bildung-freizeit/milchldle-40'
-    translation_title: "Milchl@dle 4.0"
-    translation_headerTitle: "Milchl@dle 4.0"
-    translation_headerSubtitle: "Auf geht's! Beginne eine Videokonferenz mit deiner Familie, deinen Freunden und Bekannten, deiner Schulklasse oder deinem Verein. Oder besser noch, lade alle ein, die du kennst. Milchl@dle 4.0 ist eine Videokonferenzlösung der Stadtverwaltung Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
-    translation_appDescription: "Auf geht's! Beginne eine Videokonferenz mit deiner Familie, deinen Freunden und Bekannten, deiner Schulklasse oder deinem Verein. Oder besser noch, lade alle ein, die du kennst. Milchl@dle 4.0 ist eine Videokonferenzlösung der Stadtverwaltung Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
-    APP_NAME: "Milchl@dle 4.0"
+    translation_title: 'Milchl@dle 4.0'
+    translation_headerTitle: 'Milchl@dle 4.0'
+    translation_headerSubtitle: 'Auf geht‘s! Beginne eine Videokonferenz mit deiner Familie, deinen Freunden und Bekannten, deiner Schulklasse oder deinem Verein. Oder besser noch, lade alle ein, die du kennst. Milchl@dle 4.0 ist eine Videokonferenzlösung der Stadtverwaltung Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung.'
+    translation_appDescription: 'Auf geht‘s! Beginne eine Videokonferenz mit deiner Familie, deinen Freunden und Bekannten, deiner Schulklasse oder deinem Verein. Oder besser noch, lade alle ein, die du kennst. Milchl@dle 4.0 ist eine Videokonferenzlösung der Stadtverwaltung Stutensee, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung.'
+    APP_NAME: 'Milchl@dle 4.0'
     BRAND_WATERMARK_LINK: 'https://www.stutensee.de'
     DEFAULT_BACKGROUND: '#474747'
     DEFAULT_LOCAL_DISPLAY_NAME: 'Ich'
@@ -336,18 +336,18 @@ instancevars:
     NATIVE_APP_NAME: 'Milchl@dle 4.0'
     PROVIDER_NAME: 'Stadt Stutensee'
     SUPPORT_URL: 'https://www.stutensee.de/bildung-freizeit/milchldle-40/'
-    title_description: "Milchl@dle 4.0 ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Stutensee, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung."
+    title_description: 'Milchl@dle 4.0 ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Stutensee, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung.'
 
 
   konferenztest.bruchsal.digital:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6644-1    
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
-    translation_title: "Brusl babbld!"
-    translation_headerTitle: "Brusl babbld!"
-    translation_headerSubtitle: "Sichere und hochqualitative Meetings"
-    translation_appDescription: "Auf geht's! Starten Sie eine Videokonferenz mit Ihrem Team oder besser noch: Laden Sie alle ein, die Sie kennen. Brusl babbld! ist eine vollständig verschlüsselte und 100 % quelloffene Videokonferenzlösung, die Sie immer und überall kostenlos verwenden können – ohne Registrierung."
+    translation_title: 'Brusl babbld!'
+    translation_headerTitle: 'Brusl babbld!'
+    translation_headerSubtitle: 'Die Videkonferenzlösung der Stadt Bruchsal'
+    translation_appDescription: 'Los geht‘s! Starten Sie eine Videokonferenz mit Ihrem Team oder besser noch: Laden Sie alle ein, die Sie kennen. Brusl babbld! ist eine vollständig verschlüsselte und 100 % quelloffene Videokonferenzlösung, die Sie immer und überall kostenlos verwenden können – ohne Registrierung.'
     APP_NAME: Brusl babbld!
     BRAND_WATERMARK_LINK: 'https://www.bruchsal.de'
     DEFAULT_BACKGROUND: '#315191'
@@ -364,17 +364,17 @@ instancevars:
     NATIVE_APP_NAME: 'Brusl babbld!'
     PROVIDER_NAME: 'Stadt Bruchsal'
     SUPPORT_URL: 'https://www.bruchsal.de/videokonferenz'
-    title_description: "Brusl babbld! ist eine Videokonferenzlösung der Stadtverwaltung Bruchsal, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung."
+    title_description: 'Brusl babbld! ist eine Videokonferenzlösung der Stadtverwaltung Bruchsal, die Sie den ganzen Tag kostenlos verwenden können - ohne Registrierung.'
 
 
   treff.neuweiler.de:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1    
     userDocumentationURL: 'https://www.neuweiler.de/de/Aktuelles/Treffpunkt-Neuweiler'
     downloadAppsUrl: 'https://www.neuweiler.de/de/Aktuelles/Treffpunkt-Neuweiler'
     translation_title: Treffpunkt Neuweiler
     translation_headerTitle: Treffpunkt Neuweiler
-    translation_headerSubtitle: "Auf geht's! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. Treffpunkt Neuweiler ist eine Videokonferenzlösung der Gemeinde Neuweiler, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
-    translation_appDescription: "Auf geht's! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. Treffpunkt Neuweiler ist eine Videokonferenzlösung der Gemeinde Neuweiler, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung."
+    translation_headerSubtitle: 'Auf geht‘s! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. Treffpunkt Neuweiler ist eine Videokonferenzlösung der Gemeinde Neuweiler, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung.'
+    translation_appDescription: 'Auf geht‘s! Beginne eine Videokonferenz mit deinem Verein, Sprach- oder Musikschulkurs. Oder besser noch, lade alle ein, die du kennst. Treffpunkt Neuweiler ist eine Videokonferenzlösung der Gemeinde Neuweiler, die du den ganzen Tag kostenlos verwenden kannst — ohne Registrierung.'
     APP_NAME: Treffpunkt Neuweiler
     BRAND_WATERMARK_LINK: 'https://www.neuweiler.de'
     DEFAULT_BACKGROUND: '#474747'
@@ -395,14 +395,14 @@ instancevars:
 
 
   videokonferenz.rastatt.de:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1    
     userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
     downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07222/9316413"]},"numbersEnabled":true}'
-    translation_title: Rastatt schnatzt!
-    translation_headerTitle: Rastatt schnatzt!
-    translation_headerSubtitle: "Gleich geht’s los! Starten Sie eine Videokonferenz mit Ihrer Familie, Ihren Freundinnen und Freunden oder Ihren Kumpels im Verein. Mit Rastatt schnatzt! bietet die Stadt Rastatt ihren Bürgerinnen und Bürgern diese vollständig verschlüsselte Videokonferenzplattform an. Kostenlos, ohne Registrierung und zeitliche Einschränkung."
-    translation_appDescription: "Auf geht's! Starten Sie eine Videokonferenz mit Ihrer Familie, Verein, Sprach- oder Musikschulkurs. Oder besser noch: Laden Sie alle ein, die Sie kennen. Rastatt schnatzt! ist eine vollständig verschlüsselte und 100 % quelloffene Videokonferenzlösung der Stadtverwaltung Bruchsal, die Sie immer und überall kostenlos verwenden können – ohne Registrierung."
+    translation_title: 'Rastatt schnatzt!'
+    translation_headerTitle: 'Rastatt schnatzt!'
+    translation_headerSubtitle: 'leich geht’s los! Starten Sie eine Videokonferenz mit Ihrer Familie, Ihren Freundinnen und Freunden oder Ihren Kumpels im Verein. Mit Rastatt schnatzt! bietet die Stadt Rastatt ihren Bürgerinnen und Bürgern diese vollständig verschlüsselte Videokonferenzplattform an. Kostenlos, ohne Registrierung und zeitliche Einschränkung.'
+    translation_appDescription: 'Auf geht‘s! Starten Sie eine Videokonferenz mit Ihrer Familie, Verein, Sprach- oder Musikschulkurs. Oder besser noch: Laden Sie alle ein, die Sie kennen. Rastatt schnatzt! ist eine vollständig verschlüsselte und 100 % quelloffene Videokonferenzlösung der Stadtverwaltung Bruchsal, die Sie immer und überall kostenlos verwenden können – ohne Registrierung.'
     APP_NAME: Rastatt schnatzt!
     BRAND_WATERMARK_LINK: 'https://www.rastatt.de'
     DEFAULT_BACKGROUND: '#474747'
@@ -423,7 +423,7 @@ instancevars:
 
 
   face-tue-face.de:
-    usedWebVersion: 1.0.6260-1
+    usedWebVersion: 1.0.6447-1    
     userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
     downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
     translation_title: Face-Tü-Face
