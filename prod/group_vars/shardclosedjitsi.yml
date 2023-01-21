@@ -50,7 +50,7 @@ instancevars:
 
 
   konferenzdienst.bruchsal.digital:
-    usedWebVersion: 1.0.6447-1    
+    usedWebVersion: 1.0.6644-1    
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
     translation_title: 'Brusl babbld!'
@@ -78,7 +78,7 @@ instancevars:
     
 
   konferenzdienst.readi.de:
-    usedWebVersion: 1.0.6447-1    
+    usedWebVersion: 1.0.6644-1    
     userDocumentationURL: 'https://buehl.de/digitalisierung/palim-palim'
     downloadAppsUrl: 'https://buehl.de/digitalisierung/palim-palim'
     translation_title: '1-2-3 re@di'
@@ -134,7 +134,7 @@ instancevars:
 
 
   geplante-videokonferenz.rastatt.de:
-    usedWebVersion: 1.0.6447-1    
+    usedWebVersion: 1.0.6644-1    
     userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
     downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
     translation_title: Rastatt schnatzt!
@@ -167,7 +167,7 @@ instancevars:
 
 
   admin.konferenz.ettlingen.digital:
-    usedWebVersion: 1.0.6447-1    
+    usedWebVersion: 1.0.6644-1    
     userDocumentationURL: 'https://www.ettlingen.de/2827809/'
     downloadAppsUrl: 'https://www.ettlingen.de/2827809/'
     translation_title: '@lingen verbindet'
@@ -194,7 +194,7 @@ instancevars:
     dont_show_enter_room: true
 
   jitsiadmin.bretten.de:
-    usedWebVersion: 1.0.6447-1    
+    usedWebVersion: 1.0.6644-1    
     userDocumentationURL: 'https://www.bretten.de/peter-ruft-paul'
     downloadAppsUrl: 'https://www.bretten.de/peter-ruft-paul'
     translation_title: 'Peter ruft Paul'
@@ -249,7 +249,7 @@ instancevars:
     dont_show_enter_room: true
 
   konferenz-admin.stutensee.de:
-    usedWebVersion: 1.0.6447-1    
+    usedWebVersion: 1.0.6644-1    
     userDocumentationURL: 'https://stutensee.de/bildung-freizeit/milchldle-40'
     downloadAppsUrl: 'https://stutensee.de/bildung-freizeit/milchldle-40'
     translation_title: 'Milchl@dle 4.0'
