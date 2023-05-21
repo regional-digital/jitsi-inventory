@@ -14,11 +14,11 @@ instances:
   - geplant.connect.offenburg.digital
   - securetest.bruchsal.digital
 
-shardclosedjitsi_version: 1.0.6991-1
+shardclosedjitsi_version: 1.0.7235-1
 
 instancevars:
   securetest.bruchsal.digital:
-    usedWebVersion: "1.0.6991-1"   
+    usedWebVersion: "1.0.7235-1"   
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
     translation_title: 'Brusl babbld!'
