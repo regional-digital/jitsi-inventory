@@ -136,8 +136,8 @@ instancevars:
 
   geplante-videokonferenz.rastatt.de:
     usedWebVersion: "{{ shardclosedjitsi_version }}"   
-    userDocumentationURL: 'https://www.rastatt.de/index.php?id=7119'
-    downloadAppsUrl: 'https://www.rastatt.de/index.php?id=7119'
+    userDocumentationURL: 'https://www.rastatt.de/site/Rastatt-Stadt/node/3017359?QUERYSTRING=schnatzt'
+    downloadAppsUrl: 'https://www.rastatt.de/site/Rastatt-Stadt/node/3017359?QUERYSTRING=schnatzt'
     translation_title: Rastatt schnatzt!
     translation_headerTitle: Rastatt schnatzt!
     translation_headerSubtitle: 'Gleich geht’s los! Starten Sie eine Videokonferenz mit Ihrer Familie, Ihren Freundinnen und Freunden oder Ihren Kumpels im Verein. Mit Rastatt schnatzt! bietet die Stadt Rastatt ihren Bürgerinnen und Bürgern diese vollständig verschlüsselte Videokonferenzplattform an. Kostenlos, ohne Registrierung und zeitliche Einschränkung.'
@@ -157,7 +157,7 @@ instancevars:
     GENERATE_ROOMNAMES_ON_WELCOME_PAGE: "false"
     NATIVE_APP_NAME: 'Rastatt schnatzt!'
     PROVIDER_NAME: 'Stadt Rastatt'
-    SUPPORT_URL: 'https://www.rastatt.de/index.php?id=7119'
+    SUPPORT_URL: 'https://www.rastatt.de/site/Rastatt-Stadt/node/3017359?QUERYSTRING=schnatzt
     title_description: 'Rastatt schnatzt! ist eine vollständig verschlüsselte Videokonferenzlösung der Stadtverwaltung Rastatt, die du den ganzen Tag kostenlos verwenden kannst - ohne Registrierung.'
     interfaceConfig_foot: |
       document.addEventListener('DOMContentLoaded', function(){
