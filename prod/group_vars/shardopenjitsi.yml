@@ -1,4 +1,6 @@
 ---
+enableInsecureRoomNameWarning: "true"
+
 shardName: shardopenjitsi
 instances:
   - brusl-babbld.bruchsal.de
@@ -17,11 +19,11 @@ instances:
   - videokonferenz.rastatt.de
   - face-tue-face.de 
 
-shardopenjitsi_version: 1.0.6918-1
+shardopenjitsi_version: 1.0.7322-1
 
 instancevars:
   konferenztest.bruchsal.digital:
-    usedWebVersion: "{{ shardopenjitsi_version }}"
+    usedWebVersion: "1.0.7322-1"
     dialInNumbers: '{"message":"Einwahlnummern","numbers":{"DE":["07223/7671036"]},"numbersEnabled":true}'
     userDocumentationURL: 'https://www.bruchsal.de/videokonferenz'
     downloadAppsUrl: 'https://www.bruchsal.de/videokonferenz'
